@@ -14,7 +14,7 @@ $this->widget('ImperaviRedactorWidget', array(
     'selector' => '.redactor',
     // some options, see http://imperavi.com/redactor/docs/
     'options' => array(
-        'imageUpload' => Yii::app()->createUrl('article/ImageUpload')
+        //'imageUpload' => Yii::app()->createUrl('medium/ImageUploader',array('areaId'=>$model->article_id,'objectId'=>bogiliteConfig::ARTICLE_AREA_ID))  
     ),
 ));
 
@@ -39,6 +39,13 @@ $form=$this->beginWidget('CActiveForm', array(
 		<?php echo $form->textField($model,'simplefied_url',array('size'=>60,'maxlength'=>255)); ?>
 		<?php echo $form->error($model,'simplefied_url'); ?>
 	</div>
+        
+        
+	<div class="row">
+		<?php echo $form->labelEx($model,'article_description'); ?>
+		<?php echo $form->textField($model,'article_description',array('size'=>60,'maxlength'=>255)); ?>
+		<?php echo $form->error($model,'article_description'); ?>
+	</div>
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'article_short'); ?>
@@ -52,12 +59,6 @@ $form=$this->beginWidget('CActiveForm', array(
 		<?php echo $form->error($model,'article_text'); ?>
 	</div>
 
-	<div class="row">
-		<?php echo $form->labelEx($model,'article_description'); ?>
-		<?php echo $form->textField($model,'article_description',array('size'=>60,'maxlength'=>255)); ?>
-		<?php echo $form->error($model,'article_description'); ?>
-	</div>
-
 	<div class="row buttons">
 		<?php echo CHtml::submitButton($model->isNewRecord ? 'Create' : 'Save'); ?>
 	</div>
@@ -65,3 +66,25 @@ $form=$this->beginWidget('CActiveForm', array(
 <?php $this->endWidget(); ?>
 
 </div><!-- form -->
+<div id="uploader">    
+</div>
+<div class="images">    
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#uploader").uploadify({
+            height        : 30,
+            swf           : '<?php echo Yii::app()->baseUrl; ?>/js/uploadify.swf',
+            uploader      : '<?php echo Yii::app()->createUrl('medium/uploadify',array('areaId'=>bogiliteConfig::ARTICLE_AREA_ID,'objectId' => $model->article_id));?>',
+            width         : 120
+        });
+       
+        $.ajax({
+            url:'<?php echo Yii::app()->createUrl('medium/imageUploader',array('areaId'=>bogiliteConfig::ARTICLE_AREA_ID,'objectId' => $model->article_id)); ?>',
+            success : function(data){
+                $('.images').append(data);
+            }
+        });
+    });
+</script>

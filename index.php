@@ -1,5 +1,5 @@
 <?php
-
+require dirname(__FILE__).'/protected/config/bogiliteConfig.php';
 define('APP_PATH',dirname(__FILE__));
 
 // change the following paths if necessary

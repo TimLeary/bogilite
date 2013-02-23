@@ -63,20 +63,10 @@ class ArticleController extends Controller
 	public function actionCreate()
 	{
 		$model=new Article;
-
-		// Uncomment the following line if AJAX validation is needed
-		// $this->performAjaxValidation($model);
-
-		if(isset($_POST['Article']))
-		{
-			$model->attributes=$_POST['Article'];
-			if($model->save())
-				$this->redirect(array('view','id'=>$model->article_id));
-		}
-
-		$this->render('create',array(
-			'model'=>$model,
-		));
+                $tmpUrl = uniqid();
+                $model->simplefied_url = $tmpUrl;
+                $model->save();
+                $this->redirect(array('update','id'=>$model->article_id));
 	}
 
 	/**
@@ -86,6 +76,8 @@ class ArticleController extends Controller
 	 */
 	public function actionUpdate($id)
 	{
+                Yii::app()->clientScript->registerScriptFile(Yii::app()->baseUrl.'/js/jquery.uploadify-3.1.js',CClientScript::POS_HEAD);
+                Yii::app()->clientScript->registerCssFile(Yii::app()->baseUrl.'/js/uploadify.css');
 		$model=$this->loadModel($id);
 
 		// Uncomment the following line if AJAX validation is needed
@@ -155,25 +147,6 @@ class ArticleController extends Controller
 			throw new CHttpException(404,'The requested page does not exist.');
 		return $model;
 	}
-        
-        public function actionImageUpload(){
-            // files storage folder
-            $_FILES['file']['type'] = strtolower($_FILES['file']['type']);
-            if ($_FILES['file']['type'] == 'image/png'
-            || $_FILES['file']['type'] == 'image/jpg'
-            || $_FILES['file']['type'] == 'image/gif'
-            || $_FILES['file']['type'] == 'image/jpeg'
-            || $_FILES['file']['type'] == 'image/pjpeg')
-            {	
-                move_uploaded_file($_FILES["file"]["tmp_name"],APP_PATH.'/images/uploaded/'.$_FILES["file"]["name"]);
-
-                $array = array(
-                    'filelink' => '/images/uploaded/'.$_FILES["file"]["name"]
-                );
-
-                echo stripslashes(json_encode($array));
-            }
-        }
 
         /**
 	 * Performs the AJAX validation.

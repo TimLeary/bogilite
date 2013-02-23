@@ -192,3 +192,305 @@ Stack trace:
 REQUEST_URI=/bogilite/index.php/gii/model
 HTTP_REFERER=http://localhost/bogilite/index.php/gii/default/index
 ---
+2013/02/23 10:58:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in C:\wamp\www\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(271): CController->missingAction('')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('medium')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/bogilite/index.php/medium
+---
+2013/02/23 10:58:47 [error] [php] Missing argument 1 for CHttpRequest::getParam(), called in C:\wamp\www\bogilite\protected\controllers\MediumController.php on line 7 and defined (C:\wamp\www\yii\framework\web\CHttpRequest.php:158)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#1 C:\wamp\www\yii\framework\web\CController.php(287): MediumController->runAction()
+#2 C:\wamp\www\yii\framework\web\CController.php(266): MediumController->runActionWithFilters()
+#3 C:\wamp\www\yii\framework\web\CWebApplication.php(283): MediumController->run()
+#4 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#5 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#6 C:\wamp\www\bogilite\index.php(15): CWebApplication->run()
+REQUEST_URI=/bogilite/index.php/medium/getMedium
+in C:\wamp\www\bogilite\protected\controllers\MediumController.php (7)
+in C:\wamp\www\bogilite\index.php (15)
+2013/02/23 11:27:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ú".' in C:\wamp\www\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('??')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/bogilite/index.php/%C3%BA
+---
+2013/02/23 11:50:26 [error] [php] include(bogiliteConfig.php): failed to open stream: No such file or directory (C:\wamp\www\yii\framework\YiiBase.php:423)
+Stack trace:
+#0 C:\wamp\www\bogilite\protected\views\article\_form.php(73): spl_autoload_call()
+#1 C:\wamp\www\yii\framework\web\CBaseController.php(127): require()
+#2 C:\wamp\www\yii\framework\web\CBaseController.php(96): ArticleController->renderInternal()
+#3 C:\wamp\www\yii\framework\web\CController.php(870): ArticleController->renderFile()
+#4 C:\wamp\www\bogilite\protected\views\article\update.php(21): ArticleController->renderPartial()
+#5 C:\wamp\www\yii\framework\web\CBaseController.php(127): require()
+#6 C:\wamp\www\yii\framework\web\CBaseController.php(96): ArticleController->renderInternal()
+#7 C:\wamp\www\yii\framework\web\CController.php(870): ArticleController->renderFile()
+#8 C:\wamp\www\yii\framework\web\CController.php(783): ArticleController->renderPartial()
+#9 C:\wamp\www\bogilite\protected\controllers\ArticleController.php(93): ArticleController->render()
+#10 unknown(0): ArticleController->actionUpdate()
+#11 C:\wamp\www\yii\framework\web\actions\CAction.php(107): ReflectionMethod->invokeArgs()
+#12 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(48): CInlineAction->runWithParamsInternal()
+#13 C:\wamp\www\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#14 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(134): ArticleController->runAction()
+#15 C:\wamp\www\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#16 C:\wamp\www\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#17 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(59): ArticleController->filterAccessControl()
+#18 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#19 C:\wamp\www\yii\framework\web\CController.php(292): CFilterChain->run()
+#20 C:\wamp\www\yii\framework\web\CController.php(266): ArticleController->runActionWithFilters()
+#21 C:\wamp\www\yii\framework\web\CWebApplication.php(283): ArticleController->run()
+#22 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#23 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#24 C:\wamp\www\bogilite\index.php(15): CWebApplication->run()
+REQUEST_URI=/bogilite/index.php/article/update/4
+in C:\wamp\www\bogilite\protected\views\article\_form.php (73)
+in C:\wamp\www\bogilite\protected\views\article\update.php (21)
+in C:\wamp\www\bogilite\protected\controllers\ArticleController.php (93)
+2013/02/23 12:35:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ImageUpload".' in C:\wamp\www\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(271): CController->missingAction('ImageUpload')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('ImageUpload')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('medium/ImageUpl...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/bogilite/index.php/medium/ImageUpload?areaId=4&objectId=1
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
+2013/02/23 12:37:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ImageUpload".' in C:\wamp\www\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(271): CController->missingAction('ImageUpload')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('ImageUpload')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('medium/ImageUpl...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/bogilite/index.php/medium/ImageUpload?areaId=4&objectId=1
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
+2013/02/23 12:37:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ImageUpload".' in C:\wamp\www\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(271): CController->missingAction('ImageUpload')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('ImageUpload')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('medium/ImageUpl...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/bogilite/index.php/medium/ImageUpload?areaId=4&objectId=1
+---
+2013/02/23 12:37:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "imageUpload".' in C:\wamp\www\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(271): CController->missingAction('imageUpload')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('imageUpload')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('medium/imageUpl...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/bogilite/index.php/medium/imageUpload?areaId=4&objectId=1
+---
+2013/02/23 13:00:11 [error] [php] Undefined index: file (C:\wamp\www\bogilite\protected\controllers\MediumController.php:20)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(287): MediumController->runAction()
+#1 C:\wamp\www\yii\framework\web\CController.php(266): MediumController->runActionWithFilters()
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(283): MediumController->run()
+#3 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\bogilite\index.php(15): CWebApplication->run()
+REQUEST_URI=/bogilite/index.php/medium/imageUploader?areaId=1&objectId=4
+in C:\wamp\www\bogilite\protected\controllers\MediumController.php (20)
+in C:\wamp\www\bogilite\index.php (15)
+2013/02/23 13:00:57 [error] [php] Undefined index: file (C:\wamp\www\bogilite\protected\controllers\MediumController.php:20)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(287): MediumController->runAction()
+#1 C:\wamp\www\yii\framework\web\CController.php(266): MediumController->runActionWithFilters()
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(283): MediumController->run()
+#3 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\bogilite\index.php(15): CWebApplication->run()
+REQUEST_URI=/bogilite/index.php/medium/imageUploader?areaId=1&objectId=4
+in C:\wamp\www\bogilite\protected\controllers\MediumController.php (20)
+in C:\wamp\www\bogilite\index.php (15)
+2013/02/23 13:19:55 [error] [php] Undefined variable: newFileUrl (C:\wamp\www\bogilite\protected\controllers\MediumController.php:33)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(287): MediumController->runAction()
+#1 C:\wamp\www\yii\framework\web\CController.php(266): MediumController->runActionWithFilters()
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(283): MediumController->run()
+#3 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\bogilite\index.php(15): CWebApplication->run()
+REQUEST_URI=/bogilite/index.php/medium/imageUploader?areaId=1&objectId=4
+in C:\wamp\www\bogilite\protected\controllers\MediumController.php (33)
+in C:\wamp\www\bogilite\index.php (15)
+2013/02/23 13:26:05 [error] [php] Undefined index: file (C:\wamp\www\bogilite\protected\controllers\MediumController.php:23)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(287): MediumController->runAction()
+#1 C:\wamp\www\yii\framework\web\CController.php(266): MediumController->runActionWithFilters()
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(283): MediumController->run()
+#3 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\bogilite\index.php(15): CWebApplication->run()
+REQUEST_URI=/bogilite/index.php/medium/imageUploader?areaId=1&objectId=4
+in C:\wamp\www\bogilite\protected\controllers\MediumController.php (23)
+in C:\wamp\www\bogilite\index.php (15)
+2013/02/23 19:24:53 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp\www\yii\framework\web\CController.php:337
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(310): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 C:\wamp\www\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#3 C:\wamp\www\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#4 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\CController.php(292): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('update')
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('article/update/...')
+#10 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#11 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#12 {main}
+REQUEST_URI=/bogilite/index.php/article/update/uploadify.swf?preventswfcaching=1361647492991
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
+2013/02/23 19:24:53 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp\www\yii\framework\web\CController.php:337
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(310): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 C:\wamp\www\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#3 C:\wamp\www\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#4 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\CController.php(292): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('update')
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('article/update/...')
+#10 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#11 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#12 {main}
+REQUEST_URI=/bogilite/index.php/article/update/uploadify.swf?preventswfcaching=1361647492991
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
+2013/02/23 19:24:53 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp\www\yii\framework\web\CController.php:337
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(310): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 C:\wamp\www\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#3 C:\wamp\www\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#4 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\CController.php(292): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('update')
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('article/update/...')
+#10 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#11 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#12 {main}
+REQUEST_URI=/bogilite/index.php/article/update/uploadify.swf?preventswfcaching=1361647492991
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
+2013/02/23 19:27:39 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp\www\yii\framework\web\CController.php:337
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(310): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 C:\wamp\www\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#3 C:\wamp\www\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#4 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\CController.php(292): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('update')
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('article/update')
+#10 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#11 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#12 {main}
+REQUEST_URI=/bogilite/index.php/article/update/
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
+2013/02/23 19:42:17 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp\www\yii\framework\web\CController.php:337
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(310): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 C:\wamp\www\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#3 C:\wamp\www\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#4 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\CController.php(292): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('update')
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('article/update')
+#10 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#11 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#12 {main}
+REQUEST_URI=/bogilite/index.php/article/update/
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
+2013/02/23 19:42:58 [error] [php] Undefined index: file (C:\wamp\www\bogilite\protected\controllers\MediumController.php:44)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(287): MediumController->runAction()
+#1 C:\wamp\www\yii\framework\web\CController.php(266): MediumController->runActionWithFilters()
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(283): MediumController->run()
+#3 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\bogilite\index.php(15): CWebApplication->run()
+REQUEST_URI=/bogilite/index.php/medium/uploadify?areaId=1&objectId=4
+in C:\wamp\www\bogilite\protected\controllers\MediumController.php (44)
+in C:\wamp\www\bogilite\index.php (15)
+2013/02/23 19:54:32 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp\www\yii\framework\web\CController.php:337
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(310): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 C:\wamp\www\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#3 C:\wamp\www\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#4 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\CController.php(292): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('update')
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('article/update')
+#10 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#11 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#12 {main}
+REQUEST_URI=/bogilite/index.php/article/update/
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
+2013/02/23 19:55:39 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp\www\yii\framework\web\CController.php:337
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(310): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 C:\wamp\www\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#3 C:\wamp\www\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#4 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\CController.php(292): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('update')
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('article/update')
+#10 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#11 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#12 {main}
+REQUEST_URI=/bogilite/index.php/article/update/
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
+2013/02/23 19:56:25 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp\www\yii\framework\web\CController.php:337
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(310): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 C:\wamp\www\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#3 C:\wamp\www\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#4 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\CController.php(292): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('update')
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('article/update')
+#10 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#11 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#12 {main}
+REQUEST_URI=/bogilite/index.php/article/update/
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
