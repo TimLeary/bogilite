@@ -30,32 +30,44 @@ class MediumController extends Controller
                 {	
                     move_uploaded_file($_FILES["file"]["tmp_name"],APP_PATH.'/images/uploaded/'.$_FILES["file"]["name"]);
 
-                    $newFileUrl =  Yii::app()->baseUrl.'/images/uploaded/'.$_FILES["file"]["name"];
+                    $newFileUrl =  /* Yii::app()->baseUrl.*/'/images/uploaded/'.$_FILES["file"]["name"];
+                    
+                    $wObjNum = count(MediaToObject::model()->findAll('object_id = :objectId and area_id = :area_id',array(':objectId'=>$objectId, ':area_id'=>$areaId)));
+                    
+                    $wImage = new Medium();
+                    $wImage->setAttributes(array(
+                        'mime_type' => $_FILES['file']['type'],
+                        'url' => $newFileUrl
+                    ));
+                    $wImage->save();
+                    $imageId = $wImage->getPrimaryKey();
+                    
+                    $wImageToObject = new MediaToObject();
+                    $wImageToObject->setAttributes(array(
+                        'medium_id' => $imageId, 
+                        'area_id' => $areaId,
+                        'object_id' => $objectId,
+                        'priority' => $wObjNum + 1
+                    ));
+                    $wImageToObject->save();
                 }
             }
             $this->renderPartial('imageUploader',array('objectId'=>$objectId,'areaId'=>$areaId, 'newFileUrl' => $newFileUrl),false,true);
         }
             
-        public function actionUploadify(){
-            $this->layout=false;
+        public function actionImageSorter(){
             $objectId = Yii::app()->request->getParam('objectId');
             $areaId = Yii::app()->request->getParam('areaId');
             
-            $_FILES['Filedata']['type'] = strtolower($_FILES['Filedata']['type']);
-            if ($_FILES['Filedata']['type'] == 'image/png'
-            || $_FILES['Filedata']['type'] == 'image/jpg'
-            || $_FILES['Filedata']['type'] == 'image/gif'
-            || $_FILES['Filedata']['type'] == 'image/jpeg'
-            || $_FILES['Filedata']['type'] == 'image/pjpeg')
-            {	
-                move_uploaded_file($_FILES["Filedata"]["tmp_name"],APP_PATH.'/images/uploaded/'.$_FILES["Filedata"]["name"]);
+            $criteria = new CDbCriteria;
+            $criteria->with = 'medium'; 
+            $criteria->together = true;
+            $criteria->order = 'priority';
+            $wImages = MediaToObject::model()->findAll($criteria);
 
-                $newFileUrl =  Yii::app()->baseUrl.'/images/uploaded/'.$_FILES["Filedata"]["name"];
-                echo '1';
-            } else {
-                echo 'Invalid file type.';
-            }
             
+            //$wImages = MediaToObject::model()->with('medium')->findAll('object_id = :objectId and area_id = :areaId',array(':objectId'=>$objectId, ':areaId'=>$areaId));
+            $this->renderPartial('imageSorter',array('objectId'=>$objectId,'areaId'=>$areaId,'wImages' => $wImages),false,true);
         }
         // Uncomment the following methods and override them if needed
 	/*

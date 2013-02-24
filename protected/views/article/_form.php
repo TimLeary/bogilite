@@ -66,25 +66,26 @@ $form=$this->beginWidget('CActiveForm', array(
 <?php $this->endWidget(); ?>
 
 </div><!-- form -->
-<div id="uploader">    
-</div>
-<div class="images">    
-</div>
+<iframe id="imageUpload" width="100%" height="50" src="<?php echo Yii::app()->createUrl('medium/imageUploader',array('areaId'=>bogiliteConfig::ARTICLE_AREA_ID,'objectId' => $model->article_id));?>">
+</iframe>
+
+<div id="imageSorter"></div>
 
 <script type="text/javascript">
-    $(document).ready(function() {
-        $("#uploader").uploadify({
-            height        : 30,
-            swf           : '<?php echo Yii::app()->baseUrl; ?>/js/uploadify.swf',
-            uploader      : '<?php echo Yii::app()->createUrl('medium/uploadify',array('areaId'=>bogiliteConfig::ARTICLE_AREA_ID,'objectId' => $model->article_id));?>',
-            width         : 120
-        });
-       
-        $.ajax({
-            url:'<?php echo Yii::app()->createUrl('medium/imageUploader',array('areaId'=>bogiliteConfig::ARTICLE_AREA_ID,'objectId' => $model->article_id)); ?>',
-            success : function(data){
-                $('.images').append(data);
+    function iframeLoaded(){
+        refreshSorter();
+    }
+    
+    function refreshSorter(){
+        $.ajax({url: '<?php echo Yii::app()->createUrl('medium/imageSorter',array('areaId'=>bogiliteConfig::ARTICLE_AREA_ID,'objectId' => $model->article_id));?>',
+            success: function(data) {
+                $('#imageSorter').children().remove();
+                $('#imageSorter').append(data);
             }
         });
+    }
+    
+    $(document).ready(function() {
+
     });
 </script>

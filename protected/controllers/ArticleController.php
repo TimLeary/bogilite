@@ -76,8 +76,6 @@ class ArticleController extends Controller
 	 */
 	public function actionUpdate($id)
 	{
-                Yii::app()->clientScript->registerScriptFile(Yii::app()->baseUrl.'/js/jquery.uploadify-3.1.js',CClientScript::POS_HEAD);
-                Yii::app()->clientScript->registerCssFile(Yii::app()->baseUrl.'/js/uploadify.css');
 		$model=$this->loadModel($id);
 
 		// Uncomment the following line if AJAX validation is needed

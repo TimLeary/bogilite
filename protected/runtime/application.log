@@ -494,3 +494,190 @@ Stack trace:
 REQUEST_URI=/bogilite/index.php/article/update/
 HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
 ---
+2013/02/24 09:26:14 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp\www\yii\framework\web\CController.php:337
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(310): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 C:\wamp\www\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#3 C:\wamp\www\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#4 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\CController.php(292): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('update')
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('article/update')
+#10 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#11 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#12 {main}
+REQUEST_URI=/bogilite/index.php/article/update/
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
+2013/02/24 09:28:05 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp\www\yii\framework\web\CController.php:337
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(310): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 C:\wamp\www\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#3 C:\wamp\www\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#4 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\CController.php(292): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('update')
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('article/update')
+#10 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#11 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#12 {main}
+REQUEST_URI=/bogilite/index.php/article/update/
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
+2013/02/24 09:36:11 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp\www\yii\framework\web\CController.php:337
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(310): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 C:\wamp\www\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#3 C:\wamp\www\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#4 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\CController.php(292): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('update')
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('article/update')
+#10 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#11 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#12 {main}
+REQUEST_URI=/bogilite/index.php/article/update/
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
+2013/02/24 12:32:58 [error] [php] Undefined variable: wImages (C:\wamp\www\bogilite\protected\views\medium\imageUploader.php:2)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(870): MediumController->renderFile()
+#1 C:\wamp\www\bogilite\protected\controllers\MediumController.php(55): MediumController->renderPartial()
+#2 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(50): MediumController->actionImageUploader()
+#3 C:\wamp\www\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#4 C:\wamp\www\yii\framework\web\CController.php(287): MediumController->runAction()
+#5 C:\wamp\www\yii\framework\web\CController.php(266): MediumController->runActionWithFilters()
+#6 C:\wamp\www\yii\framework\web\CWebApplication.php(283): MediumController->run()
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#8 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#9 C:\wamp\www\bogilite\index.php(15): CWebApplication->run()
+REQUEST_URI=/bogilite/index.php/medium/imageUploader?areaId=1&objectId=4
+in C:\wamp\www\bogilite\protected\views\medium\imageUploader.php (2)
+in C:\wamp\www\bogilite\protected\controllers\MediumController.php (55)
+in C:\wamp\www\bogilite\index.php (15)
+2013/02/24 12:46:58 [error] [exception.CException] exception 'CException' with message 'MediaToObject and its behaviors do not have a method or closure named "width".' in C:\wamp\www\yii\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(226): CComponent->__call('width', Array)
+#1 C:\wamp\www\bogilite\protected\controllers\MediumController.php(62): CActiveRecord->__call('width', Array)
+#2 C:\wamp\www\bogilite\protected\controllers\MediumController.php(62): MediaToObject->width('medium')
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(50): MediumController->actionImageSorter()
+#4 C:\wamp\www\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('imageSorter')
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('medium/imageSor...')
+#9 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#11 {main}
+REQUEST_URI=/bogilite/index.php/medium/imageSorter?areaId=1&objectId=4
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
+2013/02/24 12:52:28 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY priority ASC)' at line 1. The SQL statement executed was: SELECT `t`.`media_to_object_id` AS `t0_c0`, `t`.`medium_id` AS `t0_c1`, `t`.`area_id` AS `t0_c2`, `t`.`object_id` AS `t0_c3`, `t`.`priority` AS `t0_c4`, `medium`.`medium_id` AS `t1_c0`, `medium`.`mime_type` AS `t1_c1`, `medium`.`url` AS `t1_c2`, `medium`.`language_id` AS `t1_c3`, `medium`.`name` AS `t1_c4`, `medium`.`subtitle` AS `t1_c5` FROM `media_to_object` `t`  LEFT OUTER JOIN `medium` `medium` ON (`t`.`medium_id`=`medium`.`medium_id`)  WHERE (object_id = :objectId and area_id = :area_id ORDER BY priority ASC).
+in C:\wamp\www\bogilite\protected\controllers\MediumController.php (62)
+in C:\wamp\www\bogilite\index.php (15)
+2013/02/24 12:52:28 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY priority ASC)' at line 1. The SQL statement executed was: SELECT `t`.`media_to_object_id` AS `t0_c0`, `t`.`medium_id` AS `t0_c1`, `t`.`area_id` AS `t0_c2`, `t`.`object_id` AS `t0_c3`, `t`.`priority` AS `t0_c4`, `medium`.`medium_id` AS `t1_c0`, `medium`.`mime_type` AS `t1_c1`, `medium`.`url` AS `t1_c2`, `medium`.`language_id` AS `t1_c3`, `medium`.`name` AS `t1_c4`, `medium`.`subtitle` AS `t1_c5` FROM `media_to_object` `t`  LEFT OUTER JOIN `medium` `medium` ON (`t`.`medium_id`=`medium`.`medium_id`)  WHERE (object_id = :objectId and area_id = :area_id ORDER BY priority ASC)' in C:\wamp\www\yii\framework\db\CDbCommand.php:528
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\CDbCommand.php(390): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\yii\framework\db\ar\CActiveFinder.php(784): CDbCommand->queryAll()
+#2 C:\wamp\www\yii\framework\db\ar\CActiveFinder.php(422): CJoinElement->runQuery(Object(CJoinQuery))
+#3 C:\wamp\www\yii\framework\db\ar\CActiveFinder.php(70): CJoinElement->find(Object(CDbCriteria))
+#4 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(1296): CActiveFinder->query(Object(CDbCriteria), true)
+#5 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(1410): CActiveRecord->query(Object(CDbCriteria), true)
+#6 C:\wamp\www\bogilite\protected\controllers\MediumController.php(62): CActiveRecord->findAll('object_id = :ob...', Array)
+#7 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(50): MediumController->actionImageSorter()
+#8 C:\wamp\www\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#9 C:\wamp\www\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#10 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('imageSorter')
+#12 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('medium/imageSor...')
+#13 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#14 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#15 {main}
+REQUEST_URI=/bogilite/index.php/medium/imageSorter?areaId=1&objectId=4
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
+2013/02/24 13:06:13 [error] [exception.CException] exception 'CException' with message 'Property "MediaToObject.getAttributes" is not defined.' in C:\wamp\www\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(144): CComponent->__get('getAttributes')
+#1 C:\wamp\www\bogilite\protected\controllers\MediumController.php(67): CActiveRecord->__get('getAttributes')
+#2 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(50): MediumController->actionImageSorter()
+#3 C:\wamp\www\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#4 C:\wamp\www\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#5 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('imageSorter')
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('medium/imageSor...')
+#8 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#9 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#10 {main}
+REQUEST_URI=/bogilite/index.php/medium/imageSorter?areaId=1&objectId=4
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
+2013/02/24 14:51:22 [error] [php] Array to string conversion (C:\wamp\www\yii\framework\zii\widgets\jui\CJuiSortable.php:83)
+Stack trace:
+#0 C:\wamp\www\bogilite\protected\views\medium\imageSorter.php(17): MediumController->widget()
+#1 C:\wamp\www\yii\framework\web\CBaseController.php(127): require()
+#2 C:\wamp\www\yii\framework\web\CBaseController.php(96): MediumController->renderInternal()
+#3 C:\wamp\www\yii\framework\web\CController.php(870): MediumController->renderFile()
+#4 C:\wamp\www\bogilite\protected\controllers\MediumController.php(70): MediumController->renderPartial()
+#5 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(50): MediumController->actionImageSorter()
+#6 C:\wamp\www\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#7 C:\wamp\www\yii\framework\web\CController.php(287): MediumController->runAction()
+#8 C:\wamp\www\yii\framework\web\CController.php(266): MediumController->runActionWithFilters()
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(283): MediumController->run()
+#10 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#11 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#12 C:\wamp\www\bogilite\index.php(15): CWebApplication->run()
+REQUEST_URI=/bogilite/index.php/medium/imageSorter?areaId=1&objectId=4
+in C:\wamp\www\bogilite\protected\views\medium\imageSorter.php (17)
+in C:\wamp\www\bogilite\protected\controllers\MediumController.php (70)
+in C:\wamp\www\bogilite\index.php (15)
+2013/02/24 14:51:38 [error] [php] Array to string conversion (C:\wamp\www\yii\framework\zii\widgets\jui\CJuiSortable.php:83)
+Stack trace:
+#0 C:\wamp\www\bogilite\protected\views\medium\imageSorter.php(17): MediumController->widget()
+#1 C:\wamp\www\yii\framework\web\CBaseController.php(127): require()
+#2 C:\wamp\www\yii\framework\web\CBaseController.php(96): MediumController->renderInternal()
+#3 C:\wamp\www\yii\framework\web\CController.php(870): MediumController->renderFile()
+#4 C:\wamp\www\bogilite\protected\controllers\MediumController.php(70): MediumController->renderPartial()
+#5 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(50): MediumController->actionImageSorter()
+#6 C:\wamp\www\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#7 C:\wamp\www\yii\framework\web\CController.php(287): MediumController->runAction()
+#8 C:\wamp\www\yii\framework\web\CController.php(266): MediumController->runActionWithFilters()
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(283): MediumController->run()
+#10 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#11 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#12 C:\wamp\www\bogilite\index.php(15): CWebApplication->run()
+REQUEST_URI=/bogilite/index.php/medium/imageSorter?areaId=1&objectId=4
+in C:\wamp\www\bogilite\protected\views\medium\imageSorter.php (17)
+in C:\wamp\www\bogilite\protected\controllers\MediumController.php (70)
+in C:\wamp\www\bogilite\index.php (15)
+2013/02/24 15:13:54 [error] [exception.CException] exception 'CException' with message 'Property "CJuiSortable.setId" is not defined.' in C:\wamp\www\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWidgetFactory.php(162): CComponent->__set('setId', 'changeSort')
+#1 C:\wamp\www\yii\framework\web\CBaseController.php(147): CWidgetFactory->createWidget(Object(MediumController), 'zii.widgets.jui...', Array)
+#2 C:\wamp\www\yii\framework\web\CBaseController.php(173): CBaseController->createWidget('zii.widgets.jui...', Array)
+#3 C:\wamp\www\bogilite\protected\views\medium\imageSorter.php(16): CBaseController->widget('zii.widgets.jui...', Array)
+#4 C:\wamp\www\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\bog...')
+#5 C:\wamp\www\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\bog...', Array, true)
+#6 C:\wamp\www\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\bog...', Array, true)
+#7 C:\wamp\www\bogilite\protected\controllers\MediumController.php(70): CController->renderPartial('imageSorter', Array, false, true)
+#8 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(50): MediumController->actionImageSorter()
+#9 C:\wamp\www\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#10 C:\wamp\www\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#11 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('imageSorter')
+#13 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('medium/imageSor...')
+#14 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#15 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#16 {main}
+REQUEST_URI=/bogilite/index.php/medium/imageSorter?areaId=1&objectId=4
+HTTP_REFERER=http://localhost/bogilite/index.php/article/update/4
+---
