@@ -69,6 +69,16 @@ class MediumController extends Controller
             //$wImages = MediaToObject::model()->with('medium')->findAll('object_id = :objectId and area_id = :areaId',array(':objectId'=>$objectId, ':areaId'=>$areaId));
             $this->renderPartial('imageSorter',array('objectId'=>$objectId,'areaId'=>$areaId,'wImages' => $wImages),false,true);
         }
+        
+        public function actionChangeSort(){
+            $objectId = Yii::app()->request->getParam('objectId');
+            $areaId = Yii::app()->request->getParam('areaId');
+            $newOrderStr = Yii::app()->request->getParam('newOrderStr');
+            
+            var_dump($objectId,$areaId,$newOrderStr);
+        }
+        
+        
         // Uncomment the following methods and override them if needed
 	/*
 	public function filters()

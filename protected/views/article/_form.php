@@ -86,16 +86,16 @@ $form=$this->beginWidget('CActiveForm', array(
     }
     
     $(document).ready(function() {
-    
+
         //$(".ui-sortable").bind('mouseup', function() 
-        $("#imageSort").bind('mouseup', function() {
+        /*$("#imageSort").bind('mouseup', function() {
             var loadTimer = setInterval(function(){
                 $('#imageSort').find('li').filter(function(){
                     console.log($(this).attr('id'));
                 });
                 clearInterval(loadTimer);
             },200);
-        });
+        });*/
         /*
         $(".ui-sortable").mouseup(function(){
             //console.log('itt kérdezed le az új listát');
