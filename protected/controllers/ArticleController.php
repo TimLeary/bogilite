@@ -80,7 +80,11 @@ class ArticleController extends Controller
                 
                 
                 $criteria = new CDbCriteria;
-                $criteria->with = 'keywords'; 
+                $criteria->with = 'keywords';
+                $criteria->condition = 'article_id = :article_id';
+                $criteria->params = array(
+                    ':article_id' => $id
+                );
                 $criteria->together = true;
                 $criteria->order = 'priority';
                 $wKeyWords = KeywordsToArticle::model()->findAll($criteria);
