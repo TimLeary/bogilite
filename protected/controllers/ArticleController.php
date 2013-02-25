@@ -77,19 +77,64 @@ class ArticleController extends Controller
 	public function actionUpdate($id)
 	{
 		$model=$this->loadModel($id);
-
+                
+                
+                $criteria = new CDbCriteria;
+                $criteria->with = 'keywords'; 
+                $criteria->together = true;
+                $criteria->order = 'priority';
+                $wKeyWords = KeywordsToArticle::model()->findAll($criteria);
+                $keywords = array();
+                foreach ($wKeyWords as $wKeyWord){
+                    $keywords[] = $wKeyWord->keywords->keyword;
+                }
+                $wStrKeywords = implode(',', $keywords);
+                
 		// Uncomment the following line if AJAX validation is needed
 		// $this->performAjaxValidation($model);
 
 		if(isset($_POST['Article']))
 		{
+                        if(isset($_POST['KeywordTags'])){
+                            $arrKeywords = explode(',', $_POST['KeywordTags']);
+                            $arrKeywords = array_map('trim',$arrKeywords);
+                            
+                            $newTags = array_diff($arrKeywords, $keywords);
+                            $deletableTags = array_diff($keywords,$arrKeywords);
+                            
+                            // delete old tags connect
+                            foreach ($deletableTags as $deletableTag){
+                                $wWord = Keywords::model()->find('keyword = :keyword',array(':keyword'=>$deletableTag));
+                                KeywordsToArticle::model()->find('keywords_id = :keywordsId and article_id = :articleId',array(':keywordsId' => $wWord->keywords_id,':articleId'=>$id))->delete();
+                            }
+                            // make new tags connect
+                            foreach ($newTags as $newTag){
+                                $wWord = Keywords::model()->find('keyword = :keyword',array(':keyword'=>$newTag));
+                                if($wWord == null){
+                                    $wWord = new Keywords();
+                                    $wWord->setAttributes(array(
+                                        'keyword' => $newTag
+                                    ));
+                                    $wWord->save();
+                                }
+                                
+                                $wWordCon = new KeywordsToArticle();
+                                $wWordCon->setAttributes(array(
+                                    'keywords_id' => $wWord->keywords_id,
+                                    'article_id' => $id
+                                ));
+                                $wWordCon->save();
+                            }
+                        }
+                        
 			$model->attributes=$_POST['Article'];
 			if($model->save())
 				$this->redirect(array('view','id'=>$model->article_id));
 		}
 
 		$this->render('update',array(
-			'model'=>$model,
+			'model' => $model,
+                        'keywords' => $wStrKeywords
 		));
 	}
 

@@ -55,14 +55,11 @@ CREATE TABLE IF NOT EXISTS `article` (
   `article_description` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`article_id`),
   UNIQUE KEY `simplefied_url_UNIQUE` (`simplefied_url`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=5 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
 
 --
 -- A tábla adatainak kiíratása `article`
 --
-
-INSERT INTO `article` (`article_id`, `simplefied_url`, `article_short`, `article_text`, `article_title`, `article_description`) VALUES
-(4, 'bogi_alap', '', '', 'Bogi alap', '');
 
 -- --------------------------------------------------------
 
@@ -107,15 +104,12 @@ CREATE TABLE IF NOT EXISTS `media_to_object` (
   PRIMARY KEY (`media_to_object_id`),
   KEY `medium_to_mto_idx` (`medium_id`),
   KEY `fk_media_to_object_1_idx` (`area_id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=3 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
 
 --
 -- A tábla adatainak kiíratása `media_to_object`
 --
 
-INSERT INTO `media_to_object` (`media_to_object_id`, `medium_id`, `area_id`, `object_id`, `priority`) VALUES
-(1, 1, 1, 4, 1),
-(2, 2, 1, 4, 2);
 
 -- --------------------------------------------------------
 
@@ -131,15 +125,11 @@ CREATE TABLE IF NOT EXISTS `medium` (
   `name` varchar(255) DEFAULT NULL,
   `subtitle` varchar(45) DEFAULT NULL,
   PRIMARY KEY (`medium_id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=3 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
 
 --
 -- A tábla adatainak kiíratása `medium`
 --
-
-INSERT INTO `medium` (`medium_id`, `mime_type`, `url`, `language_id`, `name`, `subtitle`) VALUES
-(1, 'image/jpeg', '/images/uploaded/Koala.jpg', NULL, NULL, NULL),
-(2, 'image/jpeg', '/images/uploaded/Penguins.jpg', NULL, NULL, NULL);
 
 --
 -- Megkötések a kiírt táblákhoz

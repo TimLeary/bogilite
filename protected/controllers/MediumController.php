@@ -75,7 +75,14 @@ class MediumController extends Controller
             $areaId = Yii::app()->request->getParam('areaId');
             $newOrderStr = Yii::app()->request->getParam('newOrderStr');
             
-            var_dump($objectId,$areaId,$newOrderStr);
+            $wMedias = MediaToObject::model()->findAll('object_id = :objectId and area_id = :areaId',array(':objectId' => $objectId, ':areaId' => $areaId));
+            $newOrderObj = CJSON::decode($newOrderStr,TRUE);
+            foreach ($wMedias as $wMedia) {
+                $natPosition = array_search($wMedia->medium_id,$newOrderObj['newOrder']);
+                $position = $natPosition + 1;
+                $wMedia->setAttribute('priority',$position);
+                $wMedia->save();
+            }
         }
         
         
