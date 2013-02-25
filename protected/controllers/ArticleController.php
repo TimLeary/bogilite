@@ -102,6 +102,7 @@ class ArticleController extends Controller
                         if(isset($_POST['KeywordTags'])){
                             $arrKeywords = explode(',', $_POST['KeywordTags']);
                             $arrKeywords = array_map('trim',$arrKeywords);
+                            $arrKeywords = array_map('strtolower',$arrKeywords);
                             
                             $newTags = array_diff($arrKeywords, $keywords);
                             $deletableTags = array_diff($keywords,$arrKeywords);

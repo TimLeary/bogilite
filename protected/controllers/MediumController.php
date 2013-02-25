@@ -61,12 +61,15 @@ class MediumController extends Controller
             
             $criteria = new CDbCriteria;
             $criteria->with = 'medium'; 
+            $criteria->condition = 'object_id = :objectId and area_id = :areaId';
+            $criteria->params = array(
+                ':objectId' => $objectId,
+                ':areaId' => $areaId
+            );
             $criteria->together = true;
             $criteria->order = 'priority';
             $wImages = MediaToObject::model()->findAll($criteria);
 
-            
-            //$wImages = MediaToObject::model()->with('medium')->findAll('object_id = :objectId and area_id = :areaId',array(':objectId'=>$objectId, ':areaId'=>$areaId));
             $this->renderPartial('imageSorter',array('objectId'=>$objectId,'areaId'=>$areaId,'wImages' => $wImages),false,true);
         }
         
