@@ -32,10 +32,14 @@ return array(
 
 	// application components
 	'components'=>array(
-		'user'=>array(
+		/*'user'=>array(
 			// enable cookie-based authentication
 			'allowAutoLogin'=>true,
-		),
+		),*/
+            
+                'user'=>array(
+                    'class' => 'WebUser',
+                ),
 		// uncomment the following to enable URLs in path-format
 		
 		'urlManager'=>array(

@@ -845,3 +845,65 @@ REQUEST_URI=/bogilite/index.php/article/update/4
 in C:\wamp\www\bogilite\protected\views\article\_form.php (45)
 in C:\wamp\www\bogilite\protected\views\article\update.php (21)
 in C:\wamp\www\bogilite\protected\controllers\ArticleController.php (137)
+2013/02/25 21:31:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "2".' in C:\wamp\www\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('2')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/bogilite/index.php/2
+---
+2013/02/25 21:32:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "id/view".' in C:\wamp\www\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('id/view')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/bogilite/index.php/id/2
+---
+2013/02/25 22:15:42 [error] [exception.CException] exception 'CException' with message 'Property "LoginForm.username" is not defined.' in C:\wamp\www\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\helpers\CHtml.php(2158): CComponent->__get('username')
+#1 C:\wamp\www\yii\framework\web\helpers\CHtml.php(1887): CHtml::resolveValue(Object(LoginForm), 'username')
+#2 C:\wamp\www\yii\framework\web\helpers\CHtml.php(1217): CHtml::activeInputField('text', Object(LoginForm), 'username', Array)
+#3 C:\wamp\www\yii\framework\web\widgets\CActiveForm.php(658): CHtml::activeTextField(Object(LoginForm), 'username', Array)
+#4 C:\wamp\www\bogilite\protected\views\site\login.php(29): CActiveForm->textField(Object(LoginForm), 'username')
+#5 C:\wamp\www\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\bog...')
+#6 C:\wamp\www\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\bog...', Array, true)
+#7 C:\wamp\www\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\bog...', Array, true)
+#8 C:\wamp\www\yii\framework\web\CController.php(783): CController->renderPartial('login', Array, true)
+#9 C:\wamp\www\bogilite\protected\controllers\SiteController.php(98): CController->render('login', Array)
+#10 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLogin()
+#11 C:\wamp\www\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#12 C:\wamp\www\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#13 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('login')
+#15 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/login')
+#16 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#18 {main}
+REQUEST_URI=/bogilite/index.php/site/login
+---
+2013/02/25 22:18:47 [error] [exception.CException] exception 'CException' with message 'Property "LoginForm.username" is not defined.' in C:\wamp\www\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\helpers\CHtml.php(2158): CComponent->__get('username')
+#1 C:\wamp\www\yii\framework\web\helpers\CHtml.php(1887): CHtml::resolveValue(Object(LoginForm), 'username')
+#2 C:\wamp\www\yii\framework\web\helpers\CHtml.php(1217): CHtml::activeInputField('text', Object(LoginForm), 'username', Array)
+#3 C:\wamp\www\yii\framework\web\widgets\CActiveForm.php(658): CHtml::activeTextField(Object(LoginForm), 'username', Array)
+#4 C:\wamp\www\bogilite\protected\views\site\login.php(29): CActiveForm->textField(Object(LoginForm), 'username')
+#5 C:\wamp\www\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\bog...')
+#6 C:\wamp\www\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\bog...', Array, true)
+#7 C:\wamp\www\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\bog...', Array, true)
+#8 C:\wamp\www\yii\framework\web\CController.php(783): CController->renderPartial('login', Array, true)
+#9 C:\wamp\www\bogilite\protected\controllers\SiteController.php(98): CController->render('login', Array)
+#10 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLogin()
+#11 C:\wamp\www\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#12 C:\wamp\www\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#13 C:\wamp\www\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 C:\wamp\www\yii\framework\web\CWebApplication.php(283): CController->run('login')
+#15 C:\wamp\www\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/login')
+#16 C:\wamp\www\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\bogilite\index.php(15): CApplication->run()
+#18 {main}
+REQUEST_URI=/bogilite/index.php/site/login
+---
