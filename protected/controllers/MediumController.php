@@ -2,15 +2,59 @@
 
 class MediumController extends Controller
 {
+        /**
+	 * @return array action filters
+	 */
+	public function filters()
+	{
+		return array(
+			'accessControl', // perform access control for CRUD operations
+			'postOnly + delete', // we only allow deletion via POST request
+		);
+	}
+
+	/**
+	 * Specifies the access control rules.
+	 * This method is used by the 'accessControl' filter.
+	 * @return array access control rules
+	 */
+	public function accessRules()
+	{
+		return array(
+			array('allow',  // allow all users to perform 'index' and 'view' actions
+				'actions'=>array('getMedium'),
+				'users'=>array('*'),
+			),
+			array('allow', // allow authenticated user to perform 'create' and 'update' actions
+				'actions'=>array(''),
+				'users'=>array('@'),
+			),
+			array('allow', // allow admin user to perform 'admin' and 'delete' actions
+				'actions'=>array('imageUploader','imageSorter','changeSort','update','admin','delete','imageUpload'),
+				'expression' => 'Yii::app()->user->isAdmin()==1'
+			),
+			array('deny',  // deny all users
+				'users'=>array('*'),
+			),
+		);
+	}
+    
 	public function actionGetMedium()
 	{
-                $this->layout=false;
-                $objectId = Yii::app()->request->getParam('objectId');
-                $areaId = Yii::app()->request->getParam('areaId');
-                
-                $wMedia = MediaToObject::model()->with('medium')->findAll('object_id = :objectId and area_id = :areaId',array(':objectId' => $objectId, ':areaId' => $areaId));
-                //var_dump($wMedia);
-		$this->render('getMedium');
+            $this->layout=false;
+            $objectId = Yii::app()->request->getParam('objectId');
+            $areaId = Yii::app()->request->getParam('areaId');
+            $criteria = new CDbCriteria;
+            $criteria->with = 'medium'; 
+            $criteria->condition = 'object_id = :objectId and area_id = :areaId';
+            $criteria->params = array(
+                ':objectId' => $objectId,
+                ':areaId' => $areaId
+            );
+            $criteria->together = true;
+            $criteria->order = 'priority';
+            $wImages = MediaToObject::model()->findAll($criteria);
+            $this->render('getMedium');
 	}
         
         public function actionImageUploader(){
@@ -87,32 +131,4 @@ class MediumController extends Controller
                 $wMedia->save();
             }
         }
-        
-        
-        // Uncomment the following methods and override them if needed
-	/*
-	public function filters()
-	{
-		// return the filter configuration for this controller, e.g.:
-		return array(
-			'inlineFilterName',
-			array(
-				'class'=>'path.to.FilterClass',
-				'propertyName'=>'propertyValue',
-			),
-		);
-	}
-
-	public function actions()
-	{
-		// return external action classes, e.g.:
-		return array(
-			'action1'=>'path.to.ActionClass',
-			'action2'=>array(
-				'class'=>'path.to.AnotherActionClass',
-				'propertyName'=>'propertyValue',
-			),
-		);
-	}
-	*/
 }
