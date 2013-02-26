@@ -1,0 +1,159 @@
+html, body {
+	width:100%;
+	height:100%
+}
+body {
+    background: #402318;
+    background-image:url('../images/csekeykert/httr.jpg');
+    background-position:center center;
+    background-repeat:no-repeat;
+    padding:0 0 0 0;
+    margin:0 0 0 8px;
+    font-family:Georgia, "Times New Roman", Times, serif;
+    font-size:12px;
+    color:#fff2bf;
+}
+
+#mainContainer{
+    min-width: 920px;
+    min-height: 630px;
+    width:920px;
+    height:630px;
+    overflow:hidden;
+    display: table;
+    margin:auto;
+}
+
+
+#mainPos {
+	position:relative;
+	/* top:50%; */
+	height:100%;
+	overflow:hidden;
+	min-width:920px;
+	min-height:630px;
+	width:920px;
+	height:630px;
+}
+
+#menu {
+	padding-left:10px;
+	padding-top:40px;
+}
+
+#logo {
+	width:100%;
+	text-align:right;
+}
+
+#menusor {
+    display: table-cell;
+    vertical-align:top;
+    width:173px;
+    height: 630px;
+}
+
+#contentRow{
+    display: table-row;
+}
+
+#cHolder {
+    display: table-cell;
+    width:305px;
+    height: 630px;
+    vertical-align:top;
+}
+#picMover{
+    height:150px;
+}
+.content {
+    display: table-cell;
+    width:305px;
+    height:380px;
+    overflow-y:scroll;
+    overflow-x:hidden;
+}
+#gHolder {
+        display: table-cell;
+	width:345px;
+	vertical-align:top;
+        text-align:center;
+}
+#mail {
+	float:left;
+}
+
+#mail a {
+	color:#876D61;
+	font-size:14px;
+	text-transform:lowercase;
+}
+
+.intro, .content {
+	padding:20px;
+}
+td {
+}
+
+h1, h2, h3, h4, h5 {
+    color: #876D61;
+    margin: 0px;
+}
+
+
+h1 {
+    font-size: 18px;
+	color: #FFF2BF;
+	font-weight:normal;
+}
+
+h2 {
+    font: normal 22px Georgia, "Times New Roman", Times, serif;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+
+a {
+
+font: normal 12px Georgia, "Times New Roman", Times, serif;
+color: #FFF2BF;
+text-decoration: none;
+font-size:12px;
+}
+
+a:hover {
+}
+
+p a {
+	font-weight:bold;
+	}
+
+.p
+{
+padding: 0 0 0 20px;
+}
+.p1
+{
+padding: 0 0 0 30px;
+}
+.p2
+{
+padding: 30px 50px 30px 30px;
+}
+
+.menu 
+{
+color:#8c247b;
+vertical-align:top;
+height: 35px;
+padding: 10px 0 0 20px;
+}
+.menu a
+{
+color:#8c247b;
+font: bold 11px  Georgia, "Times New Roman", Times, serif;
+text-decoration: none;
+}

@@ -27,8 +27,13 @@ class SiteController extends Controller
 	 */
 	public function actionIndex()
 	{
+                
 		// renders the view file 'protected/views/site/index.php'
 		// using the default layout 'protected/views/layouts/main.php'
+                Yii::app()->clientScript->registerCoreScript('jquery');
+                Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl.'/js/jScrollPane/script/jquery.mousewheel.js',CClientScript::POS_HEAD);
+                Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl.'/js/jScrollPane/script/jquery.jscrollpane.min.js',CClientScript::POS_HEAD);
+                $this->layout='csekeykert';
 		$this->render('index');
 	}
 
