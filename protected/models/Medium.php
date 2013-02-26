@@ -101,4 +101,25 @@ class Medium extends CActiveRecord
 			'criteria'=>$criteria,
 		));
 	}
+        
+        public function getMedium($areaId,$objectId)
+	{
+            $criteria = new CDbCriteria;
+            $criteria->with = 'medium'; 
+            $criteria->condition = 'object_id = :objectId and area_id = :areaId';
+            $criteria->params = array(
+                ':objectId' => $objectId,
+                ':areaId' => $areaId
+            );
+            $criteria->together = true;
+            $criteria->order = 'priority';
+            $wImages = MediaToObject::model()->findAll($criteria);
+            $wMediaData = array();
+            if($wImages != null){
+                foreach ($wImages as $wImage){
+                    $wMediaData[] = $wImage->medium->getAttributes();
+                }
+            }
+            return $wMediaData;
+	}
 }

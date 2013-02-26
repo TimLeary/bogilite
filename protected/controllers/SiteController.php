@@ -26,17 +26,21 @@ class SiteController extends Controller
 	 * when an action is not explicitly requested by users.
 	 */
 	public function actionIndex()
-	{
-                
-		// renders the view file 'protected/views/site/index.php'
-		// using the default layout 'protected/views/layouts/main.php'
-                Yii::app()->clientScript->registerCoreScript('jquery');
-                Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl.'/js/jScrollPane/script/jquery.mousewheel.js',CClientScript::POS_HEAD);
-                Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl.'/js/jScrollPane/script/jquery.jscrollpane.min.js',CClientScript::POS_HEAD);
-                $this->layout='csekeykert';
-		$this->render('index');
+	{    
+            // renders the view file 'protected/views/site/index.php'
+            // using the default layout 'protected/views/layouts/main.php'
+            Yii::app()->clientScript->registerCoreScript('jquery');
+            Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl.'/js/jScrollPane/script/jquery.mousewheel.js',CClientScript::POS_HEAD);
+            Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl.'/js/jScrollPane/script/jquery.jscrollpane.min.js',CClientScript::POS_HEAD);
+            $this->layout='csekeykert';
+            
+            $wPage = new Article();
+            $wPageData = $wPage->getArticleBySUrl('bemutatkozas');
+            var_dump($wPageData);
+            
+            $this->render('index');
 	}
-
+        
 	/**
 	 * This is the action to handle external exceptions.
 	 */

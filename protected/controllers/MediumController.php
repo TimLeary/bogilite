@@ -38,25 +38,7 @@ class MediumController extends Controller
 			),
 		);
 	}
-    
-	public function actionGetMedium()
-	{
-            $this->layout=false;
-            $objectId = Yii::app()->request->getParam('objectId');
-            $areaId = Yii::app()->request->getParam('areaId');
-            $criteria = new CDbCriteria;
-            $criteria->with = 'medium'; 
-            $criteria->condition = 'object_id = :objectId and area_id = :areaId';
-            $criteria->params = array(
-                ':objectId' => $objectId,
-                ':areaId' => $areaId
-            );
-            $criteria->together = true;
-            $criteria->order = 'priority';
-            $wImages = MediaToObject::model()->findAll($criteria);
-            $this->render('getMedium');
-	}
-        
+            
         public function actionImageUploader(){
             $objectId = Yii::app()->request->getParam('objectId');
             $areaId = Yii::app()->request->getParam('areaId');

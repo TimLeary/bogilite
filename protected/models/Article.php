@@ -100,4 +100,50 @@ class Article extends CActiveRecord
 			'criteria'=>$criteria,
 		));
 	}
+        
+        public function getArticleById($id){
+            $wArticleData = array();
+            $wArticle = Article::model()->find('article_id = :articleId',array(':articleId' => $id));
+            if($wArticle != null){
+                $wArticleData = (array)$wArticle;
+                $wArticleData['keywords'] = self::getKeywordsByArticleId($wArticle->article_id);
+
+                $wMedium = new Medium();
+                $wArticleData['media'] = $wMedium->getMedium(bogiliteConfig::ARTICLE_AREA_ID, $wArticle->article_id);
+
+                return $wArticleData;
+            }
+        }
+        
+        public function getArticleBySUrl($simplefied_url){
+            $wArticleData = array();
+            $wArticle = Article::model()->find('simplefied_url = :simplefiedUrl',array(':simplefiedUrl' => $simplefied_url));
+            if($wArticle != null){
+                $wArticleData = (array)$wArticle->getAttributes();
+                $wArticleData['keywords'] = self::getKeywordsByArticleId($wArticle->article_id);
+
+                $wMedium = new Medium();
+                $wArticleData['media'] = $wMedium->getMedium(bogiliteConfig::ARTICLE_AREA_ID, $wArticle->article_id);
+                return $wArticleData;
+            }
+        }
+        
+        public function getKeywordsByArticleId($articleId){
+            $criteria = new CDbCriteria;
+            $criteria->with = 'keywords';
+            $criteria->condition = 'article_id = :article_id';
+            $criteria->params = array(
+                ':article_id' => $articleId
+            );
+            $criteria->together = true;
+            $criteria->order = 'priority';
+            $wKeyWords = KeywordsToArticle::model()->findAll($criteria);
+            $keywords = array();
+            foreach ($wKeyWords as $wKeyWord){
+                $keywords[] = $wKeyWord->keywords->keyword;
+            }
+            $wStrKeywords = implode(',', $keywords);
+            
+            return $wStrKeywords;
+        }
 }
