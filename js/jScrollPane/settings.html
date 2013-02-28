@@ -9,7 +9,7 @@
 		<link type="text/css" href="style/demo.css" rel="stylesheet" media="all" />
 
 		<!-- latest jQuery direct from google's CDN -->
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
 		<!-- scripts specific to this demo site -->
 		<script type="text/javascript" src="script/demo.js"></script>
 	</head>
@@ -45,20 +45,7 @@
 			<p>
 				Whether the scrollpane should attempt to maintain it's position whenever it is reinitialised. If true
 				then the viewport of the scrollpane will remain the same when it is reinitialised, if false then the
-				viewport will jump back up to the top when the scrollpane is reinitialised. See also
-				<a href="#stickToBottom">stickToBottom</a> and <a href="#stickToRight">stickToRight</a>.
-			</p>
-			<h2 id="stickToBottom">stickToBottom<span class="setting-type">- boolean (default false)</span></h2>
-			<p>
-				If <a href="#maintainPosition">maintainPosition</a> is true and the scrollpane is scrolled to the
-				bottom then the scrollpane then the scrollpane will remain scrolled to the bottom even if new content
-				is added to the pane which makes it taller.
-			</p>
-			<h2 id="stickToRight">stickToRight<span class="setting-type">- boolean (default false)</span></h2>
-			<p>
-				If <a href="#maintainPosition">maintainPosition</a> is true and the scrollpane is scrolled to its
-				right edge then the scrollpane then the scrollpane will remain scrolled to the right edge even if new
-				content is added to the pane which makes it wider.
+				viewport will jump back up to the top when the scrollpane is reinitialised.
 			</p>
 			<h2 id="autoReinitialise">autoReinitialise <span class="setting-type">- boolean (default false)</span></h2>
 			<p>
@@ -89,13 +76,6 @@
 			<h2 id="horizontalDragMaxWidth">horizontalDragMaxWidth <span class="setting-type">- int (default 99999)</span></h2>
 			<p>
 				See <a href="#verticalDragMinHeight">verticalDragMinHeight</a>.
-			</p>
-			<h2 id="contentWidth">contentWidth <span class="setting-type">- int (default undefined)</span></h2>
-			<p>
-				The width of the content of the scroll pane. The default value of undefined will allow jScrollPane to
-				calculate the width of it's content. However, in some cases you will want to disable this (e.g. to
-				prevent horizontal scrolling or where the calculation of the size of the content doesn't return reliable
-				results)
 			</p>
 			<h2 id="animateScroll">animateScroll <span class="setting-type">- boolean (default false)</span></h2>
 			<p>

@@ -144,16 +144,53 @@ padding: 0 0 0 30px;
 padding: 30px 50px 30px 30px;
 }
 
-.menu 
+#menu 
 {
 color:#8c247b;
 vertical-align:top;
 height: 35px;
 padding: 10px 0 0 20px;
 }
-.menu a
+#menu a
 {
 color:#8c247b;
 font: bold 11px  Georgia, "Times New Roman", Times, serif;
 text-decoration: none;
+}
+
+#menu ul li a {
+    text-align: left;
+    color: #fff2bf;
+    font-size: 17px;
+    white-space: nowrap;
+}
+
+#menu ul li a:hover {
+    color: #fff;
+}
+
+#menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#slideshow {
+    position:relative;
+    height:599px;
+}
+
+#slideshow IMG {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:8;
+}
+
+#slideshow IMG.active {
+    z-index:10;
+}
+
+#slideshow IMG.last-active {
+    z-index:9;
 }

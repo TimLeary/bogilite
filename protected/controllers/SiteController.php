@@ -2,7 +2,11 @@
 
 class SiteController extends Controller
 {
-	/**
+        // for menu
+        public $articleList;
+        public $media;
+
+        /**
 	 * Declares class-based actions.
 	 */
 	public function actions()
@@ -29,16 +33,32 @@ class SiteController extends Controller
 	{    
             // renders the view file 'protected/views/site/index.php'
             // using the default layout 'protected/views/layouts/main.php'
+            $siteName = Yii::app()->request->getParam('page');
+            $pageId = Yii::app()->request->getParam('id');
+            
             Yii::app()->clientScript->registerCoreScript('jquery');
             Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl.'/js/jScrollPane/script/jquery.mousewheel.js',CClientScript::POS_HEAD);
             Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl.'/js/jScrollPane/script/jquery.jscrollpane.min.js',CClientScript::POS_HEAD);
             $this->layout='csekeykert';
+            if(($siteName == null)AND($pageId == null)){
+                $siteName = bogiliteConfig::DEFAULT_PAGE;
+            }
             
             $wPage = new Article();
-            $wPageData = $wPage->getArticleBySUrl('bemutatkozas');
-            var_dump($wPageData);
             
-            $this->render('index');
+            if($pageId != null){
+                $wPageData = $wPage->getArticleByPageId($pageId);
+            } else {
+                $wPageData = $wPage->getArticleBySUrl($siteName);
+            }
+            
+            $this->articleList = $wPage->getArticleList();
+            
+            $wMedia = new Medium();
+            $wMediaData = $wMedia->getMedium(bogiliteConfig::ARTICLE_AREA_ID, $wPageData['article_id']);
+            $this->media = $wMediaData;
+            
+            $this->render('index',array('article' => $wPageData['article_text']));
 	}
         
 	/**

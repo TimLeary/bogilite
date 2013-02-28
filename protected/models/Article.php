@@ -115,6 +115,19 @@ class Article extends CActiveRecord
             }
         }
         
+        public function getArticleByPageId($pageId){
+            $wArticleData = array();
+            $wArticle = Article::model()->find('article_id = :articleId',array(':articleId' => $pageId));
+            if($wArticle != null){
+                $wArticleData = (array)$wArticle->getAttributes();
+                $wArticleData['keywords'] = self::getKeywordsByArticleId($wArticle->article_id);
+
+                $wMedium = new Medium();
+                $wArticleData['media'] = $wMedium->getMedium(bogiliteConfig::ARTICLE_AREA_ID, $wArticle->article_id);
+                return $wArticleData;
+            }
+        }
+
         public function getArticleBySUrl($simplefied_url){
             $wArticleData = array();
             $wArticle = Article::model()->find('simplefied_url = :simplefiedUrl',array(':simplefiedUrl' => $simplefied_url));
@@ -145,5 +158,12 @@ class Article extends CActiveRecord
             $wStrKeywords = implode(',', $keywords);
             
             return $wStrKeywords;
+        }
+        
+        public function getArticleList(){
+            $wArticleList = Yii::app()->db->createCommand()
+                ->select('article_id, simplefied_url, article_title')
+                ->from(self::tableName())->queryAll();
+            return $wArticleList;
         }
 }
