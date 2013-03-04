@@ -1,4 +1,3 @@
-<?php
-    echo $article;
-?>
+<h1><?php echo $title; ?></h1>
+<?php echo $article; ?>
 

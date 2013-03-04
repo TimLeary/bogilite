@@ -5,6 +5,9 @@ class SiteController extends Controller
         // for menu
         public $articleList;
         public $media;
+        public $keywords;
+        public $title;
+        public $metaDesc;
 
         /**
 	 * Declares class-based actions.
@@ -57,8 +60,11 @@ class SiteController extends Controller
             $wMedia = new Medium();
             $wMediaData = $wMedia->getMedium(bogiliteConfig::ARTICLE_AREA_ID, $wPageData['article_id']);
             $this->media = $wMediaData;
+            $this->title = $wPageData['article_title'];
+            $this->metaDesc = $wPageData['article_description'];
+            $this->keywords = $wPageData['keywords'];
             
-            $this->render('index',array('article' => $wPageData['article_text']));
+            $this->render('index',array('article' => $wPageData['article_text'],'title' => $wPageData['article_title']));
 	}
         
 	/**

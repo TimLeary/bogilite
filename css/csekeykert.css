@@ -159,10 +159,11 @@ text-decoration: none;
 }
 
 #menu ul li a {
+    font-weight: normal;
     text-align: left;
     color: #fff2bf;
     font-size: 17px;
-    white-space: nowrap;
+    /* white-space: nowrap; */
 }
 
 #menu ul li a:hover {

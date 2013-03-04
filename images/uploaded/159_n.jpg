@@ -1,0 +1,1374 @@
+LV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2305 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4316 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9965 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4316 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3038 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<14>VIMCADS 8609 INFO in fms.registerclient at fms.py:415, saying: Client tried to access nonexistent room: SecretDesires, booting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3038 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3038 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9580 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1462 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3808 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3808 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1462 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7509 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8592 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7348 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2927 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3883 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8447 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8574 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2958 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6861 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2391 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10075 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7486 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2294 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3601 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7486 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2913 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7486 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9078 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2913 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4315 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2913 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4250 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7436 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10075 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7436 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7512 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10075 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9929 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7512 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4312 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2950 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3803 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3803 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8197 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9557 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3960 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2306 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2509 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9965 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7044 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5392 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8592 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8592 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10094 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10094 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1190 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4238 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7044 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1190 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6197 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7044 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2967 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8507 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10085 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6791 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10085 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10085 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7346 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6989 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6315 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4062 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2306 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2635 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10071 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2306 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1692 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2635 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4062 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5951 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10010 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1900 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3031 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2635 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1856 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4265 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5931 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4338 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2950 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4326 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2950 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4338 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2950 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7044 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6404 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2509 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6404 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7044 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6378 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9364 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9232 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3202 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10004 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8584 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9035 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2983 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2983 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9055 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7018 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8197 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8555 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7387 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2527 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8306 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4294 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8306 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10076 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7524 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2635 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2527 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3069 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2635 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3069 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4296 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2333 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2700 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3894 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3960 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2539 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1104 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4062 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1104 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8592 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8197 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8592 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7044 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4062 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10122 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5993 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8197 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1023 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3010 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8197 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7044 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8197 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5973 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1023 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2886 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5973 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1023 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10024 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4167 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4167 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9927 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8183 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 808 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4298 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1709 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8183 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4298 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4140 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4298 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4298 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4140 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4140 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7387 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9675 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2509 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9675 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4323 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1825 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9976 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2509 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1825 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9492 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1825 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9492 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2169 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3655 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2169 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7483 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3841 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4231 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7483 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3841 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10018 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7483 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1477 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4321 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2635 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7463 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2635 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3202 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3016 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2635 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7414 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7319 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7471 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7414 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9742 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2891 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9742 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2509 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1076 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6197 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9677 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 840 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1076 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1204 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1709 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3908 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4282 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2556 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4194 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5236 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9677 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9240 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9240 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2500 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2948 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9492 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2950 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2948 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5236 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2950 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2950 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7519 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4324 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7396 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<14>VIMCADS 10139 INFO in worker.readstream at worker.py:262, saying: onStatus invoke received: NetStream.Play.Start
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7463 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10116 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3202 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7463 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5720 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5720 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9928 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<14>VIMCADS 10139 INFO in rtmpclient.read at rtmpclient.py:386, saying: Metadata received codecid: 0, frametype: 80
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7387 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1370 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5951 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3036 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9671 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6971 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10062 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2958 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3036 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3771 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9671 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9527 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1462 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9671 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9527 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9976 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1462 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9671 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4308 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9976 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2979 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2898 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2904 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4308 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2556 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1692 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2509 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3498 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9987 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8984 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6335 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4194 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6678 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1966 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7334 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6914 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5236 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7513 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2840 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10069 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3202 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7364 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7513 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3202 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10011 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9375 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7513 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2840 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9527 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6177 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7364 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6177 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6561 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1043 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7519 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7275 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4230 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7483 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8984 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7483 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1817 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3036 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1817 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9630 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3894 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9630 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2948 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3894 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4324 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9976 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7427 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3932 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2071 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10015 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2556 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4194 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9670 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3932 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4304 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8306 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8984 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1190 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4304 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2071 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4304 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1190 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7485 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4304 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2071 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6930 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2071 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4304 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10083 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1023 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10083 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2556 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10083 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4194 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2259 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10069 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3222 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3222 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3925 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3222 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4245 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7295 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3925 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7044 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6197 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3925 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6197 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3925 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3755 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6197 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1966 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9944 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3778 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2936 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2936 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9944 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6914 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8928 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8928 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8928 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6914 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8928 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6914 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7387 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8493 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2565 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3222 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6999 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2565 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4289 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2390 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9735 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9735 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2375 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9735 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3655 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2886 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2812 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9527 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9292 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9946 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5874 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4324 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2906 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7510 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2538 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9957 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9957 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2538 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1256 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2538 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1523 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3036 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5730 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2613 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9976 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7293 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2927 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7526 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2282 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9976 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7293 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7281 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7293 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4291 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3932 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4062 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6449 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2241 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4327 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3642 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2241 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3833 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10065 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1820 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4308 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10069 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9292 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10069 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4194 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1820 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9292 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2556 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2953 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2390 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2872 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10039 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<14>VIMCADS 7467 INFO in worker.start at worker.py:345, saying: Instance terminates after 16.4995779991 seconds having 1 clients.
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10075 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3874 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9527 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3120 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3285 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2923 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7295 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2631 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7425 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3026 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3026 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2333 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4175 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7485 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2333 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7485 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7470 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2333 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2602 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7470 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2602 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1802 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2602 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3655 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3932 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1802 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4155 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1802 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7448 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3932 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2338 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7448 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2800 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9969 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9292 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9078 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7448 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<14>VIMCADS 4351 INFO in worker.readstream at worker.py:262, saying: onStatus invoke received: NetStream.Play.Start
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7448 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3036 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9292 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9078 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7489 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9292 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2390 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7489 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8380 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7489 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7295 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3661 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3661 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6494 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8550 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9679 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<14>VIMCADS 10452 INFO in fms.wait at fms.py:315, saying: Child, pid: 7467 terminated, removing
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2450 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<14>VIMCADS 7645 INFO in fms.registerclient at fms.py:415, saying: Client tried to access nonexistent room: MONSTERPSSY, booting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6494 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8287 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6450 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3912 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10131 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3912 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9969 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6674 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3912 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9360 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3912 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7387 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6450 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1461 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3912 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10106 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1461 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3912 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10020 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6674 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8537 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10020 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7452 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6450 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6450 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10086 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7466 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6791 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8818 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7440 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8818 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7466 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6450 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9595 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8876 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5888 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6450 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8818 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8818 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9595 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8818 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3854 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8984 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8818 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6450 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7120 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6450 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3854 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3841 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3841 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7333 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6450 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8592 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7333 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2509 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10015 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7333 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10015 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10001 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4312 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4312 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10107 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10107 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2135 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2135 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8858 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2189 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4165 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2189 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10135 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3650 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4163 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4163 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9368 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3884 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9931 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7492 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9530 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10111 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10094 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3720 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9014 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5993 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5993 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9949 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3803 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2022 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4265 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1966 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1709 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4288 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3650 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2261 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2261 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10053 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2824 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3924 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2915 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2824 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2915 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2915 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2824 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6531 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2824 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<14>VIMCADS 2946 INFO in worker.start at worker.py:345, saying: Instance terminates after 27.9760189056 seconds having 0 clients.
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9232 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2135 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6645 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7077 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9232 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9725 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6645 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6567 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9725 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6645 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9725 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<14>VIMCADS 4271 INFO in worker.start at worker.py:345, saying: Instance terminates after 24.1919190884 seconds having 0 clients.
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4350 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4350 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8552 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9580 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4273 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6567 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7079 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9620 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2189 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6567 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7079 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3775 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7509 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2912 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2189 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4167 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7348 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7364 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3650 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2999 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2999 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8552 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8447 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8574 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8455 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4231 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6861 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2986 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5392 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2886 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5792 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6494 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6861 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2886 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5392 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8189 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4250 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3661 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4250 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2912 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4250 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4250 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6914 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7485 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9929 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8232 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7512 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9929 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4306 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8232 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9929 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3914 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8232 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4306 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<14>VIMCADS 7645 INFO in fms.wait at fms.py:315, saying: Child, pid: 2946 terminated, removing
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3914 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10069 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3914 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10069 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3202 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9940 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6140 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3580 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3580 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3580 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9375 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9090 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9375 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3661 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5792 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4238 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5951 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2967 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4345 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<14>VIMCADS 7645 INFO in fms.registerclient at fms.py:415, saying: Client tried to access nonexistent room: TropicalSummer, booting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7057 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9292 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2933 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10071 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7295 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5097 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10010 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1197 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10015 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3120 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1197 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5904 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4326 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8552 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 808 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6914 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5904 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4338 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3731 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5904 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5904 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2921 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7282 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10004 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9035 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10074 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9527 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4324 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8189 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6567 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4318 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5097 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4324 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4324 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9987 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6645 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9987 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4324 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4324 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4188 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3290 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3621 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8984 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7524 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8984 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9949 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9130 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9130 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1043 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1961 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2877 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2877 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7117 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8552 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2877 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1961 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7044 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7117 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7521 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10095 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10015 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10095 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7281 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5973 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9969 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7519 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3013 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3010 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<14>VIMCADS 10138 INFO in worker.readstream at worker.py:262, saying: onStatus invoke received: NetStream.Play.Start
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1461 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<14>VIMCADS 10138 INFO in rtmpclient.read at rtmpclient.py:386, saying: Metadata received codecid: 0, frametype: 80
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7388 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7001 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6816 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2975 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7001 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3731 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2430 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7439 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3731 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2975 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2430 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2891 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6816 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2430 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2811 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2600 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2600 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4323 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4318 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4333 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4333 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4318 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4318 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2812 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8811 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 985 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4198 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8584 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3601 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9969 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3601 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1477 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7412 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9969 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6384 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4240 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4321 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2430 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2135 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4240 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4321 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3016 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2921 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3036 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7319 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6645 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4251 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7414 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6645 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5379 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7502 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9650 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7502 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4343 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9650 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9055 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2338 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9969 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1197 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6378 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2145 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4282 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2892 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3009 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3621 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2943 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3621 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10030 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2943 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3009 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5954 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3621 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4297 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5954 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6540 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6540 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10015 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6674 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6531 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6531 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8189 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7117 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4318 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<14>VIMCADS 4351 INFO in rtmpclient.read at rtmpclient.py:406, saying: onMetaData received, storing it
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5882 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9674 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5796 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<14>VIMCADS 4351 INFO in rtmpclient.read at rtmpclient.py:386, saying: Metadata received codecid: 0, frametype: 80
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2489 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<14>VIMCADS 8609 INFO in fms.wait at fms.py:315, saying: Child, pid: 4271 terminated, removing
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3661 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3382 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3960 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10015 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6473 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7082 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2600 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2795 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10015 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9546 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<14>VIMCADS 10452 INFO in fms.registerclient at fms.py:423, saying: Room 7528 created for request JustForMen
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2921 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4204 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9478 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4204 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2979 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2898 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4294 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2979 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6952 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5954 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2979 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4204 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4294 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7494 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5954 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6678 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7082 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2904 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5954 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5379 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6674 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9674 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2338 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7082 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2338 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6989 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5882 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5379 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6989 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3621 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2259 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4346 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6989 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9650 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3601 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2259 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2589 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4346 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1037 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1682 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3621 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10133 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2489 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1682 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1037 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1682 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1037 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7117 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<14>VIMCADS 10140 INFO in rtmpclient.sbpublic_connect at rtmpclient.py:328, saying: Successfully connected to backend
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10011 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9427 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9427 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<14>VIMCADS 10140 INFO in worker.readstream at worker.py:262, saying: onStatus invoke received: NetStream.Play.Reset
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7396 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9364 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7396 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<14>VIMCADS 4352 INFO in rtmpclient.sbpublic_connect at rtmpclient.py:328, saying: Successfully connected to backend
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9499 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2352 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<14>VIMCADS 4352 INFO in worker.readstream at worker.py:262, saying: onStatus invoke received: NetStream.Play.Reset
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9364 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3808 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6971 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3640 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3411 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6674 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4194 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2556 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7341 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2305 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7187 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7341 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2887 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9648 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8493 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5882 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8493 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8189 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8493 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2600 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3650 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7187 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2489 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2600 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8189 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9928 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7117 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4062 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8552 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3072 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4342 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6197 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4342 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4127 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7334 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4127 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1781 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10065 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1781 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1190 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7460 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7471 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8183 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8183 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3778 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3621 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9364 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3621 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6930 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3855 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9741 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6930 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3020 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6174 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6174 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5882 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3026 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3026 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9499 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2489 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9499 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2887 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7510 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1256 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5874 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9957 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7187 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9957 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2538 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2538 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10133 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7469 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5425 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5425 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7469 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2509 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4291 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10018 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5425 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3498 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7433 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6449 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7433 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6449 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3642 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3642 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5792 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2633 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4327 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2390 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7454 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2887 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7454 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2295 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2953 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4304 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2295 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1204 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8189 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8916 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4304 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4304 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2295 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1781 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2295 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2489 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2334 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9499 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9705 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3101 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9292 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9499 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8916 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3101 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3874 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3101 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3101 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2241 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8592 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2241 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1709 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2241 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5792 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3731 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7316 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9705 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4264 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2936 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2923 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2936 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7316 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2923 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<14>VIMCADS 8609 INFO in fms.registerclient at fms.py:423, saying: Room 4355 created for request BABYSEBASTIAN
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7425 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8591 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6952 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10052 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9567 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3202 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4155 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8591 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8591 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2926 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2800 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10084 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10072 ERRO6:09:18 192.168.3.56 Ôªø<11>VIMCADS 5942 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6177 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4254 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1692 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7334 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2613 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7334 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3586 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2990 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3012 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7334 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2981 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2361 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2981 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2282 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2981 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4308 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2469 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4350 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 808 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4350 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7293 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4201 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4350 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2891 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4167 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5512 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4231 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9623 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6758 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6816 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2812 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2469 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4167 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3850 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3771 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9927 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3850 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6177 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3771 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3850 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7504 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3850 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6177 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2965 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7504 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2965 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7504 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3850 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10103 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3850 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7346 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9212 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7425 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4230 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1961 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9446 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2840 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3642 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2840 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7072 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9742 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3028 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9078 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10084 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1315 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8171 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9679 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6791 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6140 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1781 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 985 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9364 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6782 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2171 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8916 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9427 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6177 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10075 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7293 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6177 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3357 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7293 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 3009 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<14>VIMCADS 8609 INFO in fms.registerclient at fms.py:423, saying: Room 4353 created for request themachinesex
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2007 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8818 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10075 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7440 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6914 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10131 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6780 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10086 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2986 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8455 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6914 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4172 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6664 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7333 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3833 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2923 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1306 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2927 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7462 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5559 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1936 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2840 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10112 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1936 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6791 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2840 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7525 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9078 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8858 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8818 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3479 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4230 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8818 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10117 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6540 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10117 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5489 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10117 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10117 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4165 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2136 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5489 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9530 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9703 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8938 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4163 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9530 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7313 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2527 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8938 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9703 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2986 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2204 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9703 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2986 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2872 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3140 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1043 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2986 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3140 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9602 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9446 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7452 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8287 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2334 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7452 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9446 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10111 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9446 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7452 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10111 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7452 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10111 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3720 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 8555 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7395 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7395 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 2527 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3640 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3640 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5862 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3640 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9567 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3883 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2602 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7492 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5730 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2819 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3883 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1401 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9726 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1795 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3883 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 3883 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2296 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7316 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7526 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1043 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2983 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9965 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 6791 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 808 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 5586 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 808 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 10124 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.56 Ôªø<11>VIMCADS 7279 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4328 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1832 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4273 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2927 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 2840 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4271 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.59 Ôªø<11>VIMCADS 9423 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4273 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.57 Ôªø<11>VIMCADS 1832 ERROR in rtmpclient.read at rtmpclient.py:434, saying: Invalid FLV type received: 4, aborting
+Mar  3 16:09:18 192.168.3.58 Ôªø<11>VIMCADS 4273 ERROR in rtmpclient.9Ã«*„;≠‰FÁM‰Ë0œUQäÒòÓ-‰™ÁC∏‚€¡‰k◊Ñ©1ˇ óô‰_∆—’[∑õæ#Z+]ä´Ö·La¸‘ƒ¿˙(TAøä”ygçÅfƒÒ#vˆA≠L@Ü„;Ô„™≈m~*—7∞mö)Ôˆß.Ä∆?OT∑¶Ú‘s´p¥èH¨Ì%€±giQb°Wa)[p2‹¶áâÎ∑7“úkRsÎ√ÙØì˚_ÏEÂ¿Z¨\@ß„*¸Ò“∫®tÓ≈ö‘Xååif`®÷≤ÃÍöÛÄ∑óƒﬁ±ªxSÅ«;ÚàâÈ√6ıø?ª≥.Zãà)ä°≠t˝Á?b’Z6Ï/Ó°9à"]dBÖûjës'3îL¸dW#;l|8ë(T+Á^r»·JÍ^WªM·ÚŸ∫à≥í”ı•–ÔXFä÷˝Û{ïfÙ≥èl∂ø›p¨Î ¢´ùå'Z[È‹ˆP€∫Ò≈˚Mmî¢Tuæ;QL€NaFœéµ7\e+íÊMèÆ.¨[¬•fü®≠;,ÜpÑÊ<Î∂®–”´Ùµk7Ò9–SÆiºéπ∂_DÇ¬õé»,œ‚‰°—A¥Äîu∆JêˆåésK©÷√$í1ß_ﬁÆÆ’ßsÚÃ'tŒRJΩëUπ
+ÎOjü&…Ñç¶l»ôñO¸/´T[:Öbj≤ˇ h¢Ì2§%$~Qñpúˆúßò…2≠é“Ø´"ªCπ:æ#R\ZŸñr(àò„2;œﬂN<Ù∆U\“u1ÒQ˛oE·Ú∏kÏÙÚÍ≤9+·g,⁄Wƒ.à<qÙÄº—><ª0ÍèÌ◊wä•A¿Ï,eUæûjõôKÛòºﬂ‘ıÓ[®Ì%ñ´‹nF!úÎQé»ÖÖŸ<∞Ê<ÚÑTüSóÃÄS≈)5îÏ+Qï±ióiQ≤õv∞œx5!í¥µeí´¥:RŒ=≈ó—],”‹\4Íd≠=È◊´á©tu≠õø5êwlc,\…w,„éó„ÿtj8ßıASè’ù˛ˇ éàa<B´_∑)p
+∂”ö/6åmÕASÖöY,	¶ΩFX/ŒÀjV]õ6ÊÅä* ‚{üπ«∑¬"7éì{¬R$’÷”ŸÔ¥ÑÔ,¸ËÁ\S9Ù3De0”‘cq51ôEd¨)B2Ó-±ÏÜKä÷Ê-%o p;ˇ =.Ò√òàÁÁT∆Ö
+
+ÙÎ’åûî•¶p|ãu6)}f¸mœÇ	åBk(/ÀKâ©˝7w£˜ä∏ÌÓDƒ)óÌT£#*Ω◊æß›‘∫O8˝7Bï=Iw8‡÷ZÆ•z∏¸•™¥räƒ™⁄‘S,[ªõœ/$EÀyàç§€Ö≥é<øΩ,ñåotQœ¢:SéV$2πå÷t0ÿv√qò¢äı|ñ‹ç{¶VyÿåÅ’ñüªØ∆N∂{ÙÉK∏R±í)ç§íÖÅ”HÈ›)©ıf£’TpWÎv˚¨noOXˆ’rÅha÷lä[2íK*Éˇ s‹úOFe¿∞pí#^ı^JÄÉLKØ≈•k¶RçjJe|?ıÄ'Ö≥ï,ı_%\≠H0!ÇR_øn]9ï¶hW˙£â¡/T≥h°®„)OL‰’ìEl±≥RÌ¯Hˇ õ«ﬁ Ïâ‹K∆›W‹·Pƒ5ß≠VÍ¶íÆ˝i´}D÷d›/Í‡„¥Ωöaé»ˇ NS¨\‘•O.m8ƒdΩ¡æœ8„´¡L«û¶ Q«t˚”)gèäÎN˝1Íˆ;V∆2ÆR™énÂî¶¶-VıHÆ6ÇÏLÚÛ[˛ÿ⁄Ìî• ®xjæÂbœ^µ„SW√ÎMUC”mEvæû»a1Ö™™l’ﬁªUã°)n2©úåÇål“Ä£∑Ÿ˛|ÙÖ»RÑ∂!DÂ9GZ—ÏM∞mÌ\a˘U∫˙xÇπg”≠q”:SßÒ8ÃF~„ŒÊö°íˆïÈ⁄*4ë≠toíXiÅ|§~3˜<ßñ”¥÷[,≠‚’∆E:wı°µpØr}¶íàÀ1:y’ÜSQgµ^úß$b)j™≠F; ?>Ô3µPã‹sÿçincÚ⁄#˘ØV˙SÀJ§eÉ%$ÄUÀøÔI\æ6√ÒŸjXøA«JÏFH˚Ñ©€Oç„òœH‰sök‹HÀ*¬1•ì¡h˝a}ZÉ+çÀ›‘ı"0Rà)^À_äo6ïjﬁˆpââàü„Ø9¥î€Œ5 (îïs* ”=*Á
+1«2?Jﬂ>èa°4˛éMå’*8≠Wâ;4´‹%≥zÙZªXÃï“Æ∆wÙ-™ÆQ+èÄîó_;⁄˜Ö˚◊—*O y«QB|Fè#ê,æj÷∂+ÃÆõk4˛m—ç≥âä˜r˙˘
+Êà*Cm˜8wàÂÁ™´‘,-%Pg#ƒ‰ëJ(Œ∫}h$]å‘˙¢ñC'Ée¨}0z∫∆#ëÄ¡„ ¶l+f≠yóMe%~÷+ ∏ê¯Ês=\€°ÊKäI—Q1≈ûdzmµ3•!q˛™˙âû’5ìGZ[N	§ä´ﬂ∂∞∆∂ÕÚ‡ö.N‹nlÛ9/üf"Ïw˙>ÕÿÏ›!MŒ!ÎÛ¶=‹GÂ"∑6>Ó;J˛ãÃ€Øç≥ñuìå˚FΩ
+Y@ƒ:π∞b¢-5`'∞˛ò Ïl{q≤◊≥¨[C	VÌ¡ô=¸πUcn§¿ŒóZ¸É]W≈„∞l∑ñnÑ∆÷£Ç√ÈÚs[^Õ∂DÁsVª\Ö∞
+ˆ’P<„v˜OåıCÏﬂ¥∑v´K◊*¬ó!%Júí<=¸Í÷«Ë[JÍ?Prz´#á’y,≠˙E≤ûRÊ"¿û5ABAh∏Ÿ‰”LI¿DœÛ¥∆˝}Iüh˚)pB¸&5Œ' ¨ÀmdFµÙ{“}GÇƒ÷zèß-œ[´j∫“∆/#Z1n0~Ó 	|'¿¿Ô¥Dı◊vù≤UÅJ	?CBSBf∏zÖÍÒÊÈ<¥u!≈“∂hƒ†≤¡≤‡∏≠ÍÄ°p2ìi¡lÁa(âüΩ˙˘óµ{qh'›Ûœ5iK_+ud÷>÷˙±ˆÆ/%~”ò˚¸ëd≤∂€∂9:„"2Ü,˛fU0aÑ3„Øí%o››cpÃü!UŒ9æ¬ù*è”Õ3kÚvrv1∏ºVU1ˆÚy˜⁄ù++hAùåµ€f±f§î1kíùÏé‚ca¥nS!¶’àçDJÑ~Zµi$'
+ƒÎZ7”æú eqÕ”òî\¬◊¨,8vÊsãƒ÷Ó/€"Î…u(‰,qñΩ—ïrûSºGMl;E•÷÷·!J–Dò˝OZnŸ«fiˇ ¶µN{ùm'¶:+Lih_jæ∑FRr⁄ÜrVdâ∂ôàk[æ∆Èd ‚f|uÙKPˇ /ÄÚ%X˝jËZ∂QâJV>îW•Ω,øsQPÀgÉ'ñ Ö[w≠Ú≤‰\†Î®¯è∂=ßîn|#ÑLN¥íÍ≥]c/ùkJDåªS9~µ.ÀuÆ®cÒ¨≤À5[Õƒﬂº¬`G»6ùˇ ∑DquÊfæSz„Ín&è™b3˙”ã∑£±öÇıÏMÂW´É∑ñøbÍ¨ÿ√ πU¶∏
+±Ú"ùˆÎ1∂mÀÑn rÃ”)ÿã};‘«.æjëë’∂™È¨võÃﬁ~k-ÄΩè≥≠nÜ7Pß›GjUS#è£rJ∆û∂$§3;ıçUâuı9!)#¯xá"z’ñ¡¥K˜ó!J…#0L|'Ωd?P=, Ÿ»Y»hPÙÓ~≠mJrz@¸¡G>›,a)ÃÑÔ¡j◊‘u©ŸõM∆ uÖa)ÒxáÆáÈ_En÷pTÖ'Sã~tq4®Íj4-˛OOÁ¥Íû9J ±’a	@&πI«9‡≈œè∏ﬂ´ ÓeQ)´ˆ≠%†dÖƒ≈[‚5.”ôNM∑2–œns`WÎWâ„^DÀà˜bbJ~3Ì◊n∂H39ÂCŸû˙¢†]IH‰u ´◊ïU’VÕ¶ƒˆ´%j¨˚M˚|çıÊ≤öæ^åç“;åƒé˚«MZ:Üıœµ#¥¨úxCkÅœ•ÈñË%ÍÀ.›=AjÌAßO¶hèÂ.ŸÁ=Àó"∏Úˇ to¥nE‚:Ûé<©ëÑuúΩ*vñVâR\∆
+∞¿2O~‘¯ç®ãÇ4ŒÛÆœ⁄VF÷"∫®e3nBab+7 ÈØÁá˘a_?∞âçÁ™˜n0Ã:ü¥SJ`¥ç‚”àŒIHƒ˛n’§’È~ô–vÃ…Â≥À…j..ùà™y(ßƒ› o>Ë*∂–ÄC·‹‹G„’PuOú¿Õhî]µl· ∏~˛ÉÔ^ÿ˝Y¨5ñTÒ˙7NÈ•µL]ã¯çAw"y*¥óæÚT©1BÚó	)q3∆FL∑-£œ:”c4ïÃÇ SVï5çÿms$À‘—nï“kzgPjèŒj)¨ô^ıΩLx—ªEò|ä$î´j≈:ÿ÷©∞@-¢Q;œ‹OI'z‚±∑I–/1Û:Sw;Ñ7Ñ®%‚Jº@˜òö≈>®iÏ∆KG^¢ˆU∫˜QáS]ßèúE€/±imV†˜ÌÚW?åO/'|<≈…B…	B[Ïr´‰~—˚l√jq´Ö-GTπ	·Ííu©7˝IDÅ·ΩCˆÀ ∂£nR‘é√&ç∏ß®1káD÷†tπ6π9‹¢DH&'´¶í⁄‘"{sØáﬁlÃ»cNbdMW◊†Z{‘’Å÷jÌ»XWπIÛsò˘Òµ`ªo3ºo’»Bû0*Ö€7Z3öMÈ}Q°pm√⁄”öpé’%¥≠ª7€≤u%÷!í‚`J<∑8Ü&&7È5lÿ^πPù∫∏RN#˘≠Í}_}8ª71™ñ˛>åó±´‹o›0°”æ¸∆yˇ P%?œ]çŒQïF›Ñ‹¯…%Çß®Øe´Ê–l√i¨ΩUTmk5˝˝∫∏ºÿMWfh”‚PÚRm1˝®ë$JÊF>1–/Rß €Œ¨KL[*	yÎWÊ´µ?)Oh3™„øì≠qÃ*Ÿew#π*;ﬁpŸÉﬁ>∑€¯ÈãwK®„U%€[ß;“Ö ¯Ld[¥Vtıt_±⁄úÂfù;ˆªâcÃ„∑q®Äêâ(ﬁ>1m—äÄPÉBXﬁµ¶~ö,kûAı7-ÆjJ-|ö0– TÇ9ô≈ä™ÉÜ Ló<«îÙ∏úDMHZDM3sΩ5ÍÆ?¶u}lNC8ÏVG5Ç `ÀOæµKÒ¡®SXD[X
+»yÌÿa@∞FKyË
+Hàà®Rí©I¨Iö–y_O2{T[M˙ﬁõ\‘Ù"Ö˘à+8Î÷n≥G+Jf¡LÖ9ë ·⁄cœC\Ó»Nµ¶≥ªaÂ†(ƒ¸´WÍ}e¶}C≥©ù•2a√ÿkd)–ƒS”èÏí1◊Ò˘!2e≤∏1˛ÑêœÿƒıB‚ñ“û"d9˘´Ë◊	ΩqMçﬁ…◊±D˙^öuFñÃ˙súè«∫÷ü£Z–_ñà qåK∑ka&ıÕÇòÖG9€«L[\!‰O|€nŸ=evALA˘ä…∏L#qöπ:KSaŒmct≥ı•†“ºÍ+±göÚπûa}¢°gÒ)ç˙Ç…@Ç`—¡@P¢â”9j¯˙±Çå≈mM¢±WnÂ+◊Ç∞ã3lÛY•%+˘ÑTàè#˚ƒm∑@7mÃg4,ÃM‚µFbOÜÀÂ”è~HŸˆg*2ƒ‰Û	åaZ±\ñ’ä”>÷–ÛÅ!8€Ó:õ¸Â&{˘T/1(Ö?µ=}=’ôË,√ı*»UJUßXgù¶⁄U¡ˇ <ë≠Ÿˇ ÈMX¬‚wnd%Ü:2[81'NïXÓp&≠ÎÂ[M,¶(VkN{ ±dÖ'XK  ¢iEÅ/ëHƒƒÙ≤9Ãè≠1ÓYP>õu¨Ürúk≥≥™äZ´8Ê16≤¯∫Ÿn6Áµ?÷a…KñAldP3%–\V¯‡AÉÙ´÷XKa. ÄP≥Íy
+–z€nü“:Zï∫ñS7¢4Ê?ﬂ≤™îr7´;¸€û§rÖ’Êˆ>ba{0yn>Yh~o/ﬁ¨˝•ŸÇ∆-))ADıâ»–ﬁÄ“ó◊ã÷öÖv3UT,ÆœlÑÜ?*˚`∫8»CV,U»˘¶¥c∂JòOâûüiKRº1áZ m,“ì>*+•:_QÈ˝c=è†›OïˆõÀÕ—eÖ[Æ◊1»êƒ©Ê5V<qP»ü≈qπ^ÖΩ#Ø*Øi˜@™=-ó ˇ TóÃ*›‹¿„B˝√ ∞T√⁄”À^ﬂaÆ®U{˚`\∆zœº±t‚OJ–Ÿﬂ`≥V#∏Ú£˝s~∂áãu2è·ì°Ñ≠ûƒbBWπ PL«1ÛVÊ_£Ú/?u°´UòV%9#Jê—w@.d19k7ÌåYªdí;µÌéndÛo-»ÊgœüÔ‘F◊ÈL˛/SYßGﬁ hõ∫Êµ»P£åøk%âµÌ1b?É¨«ˆØp4£ EdøˆGô)\îıÄ|7r]JDúï‚’]\:UÎ±è1˚Û¶ﬁJdÙ‚Ìh|NRæ£Øá©SSii∫ÑC+áüÚÀ™ñ©‹H´1‹«ÂÃB7.Q=UÄÏº‚p82Vyy–‹Rïë*´ª˘,ïÖPøÅ»Èl°‘*°ñ˜G∆ ØÒUß∂VpH‰≈D@	ñ‹áx9àÍx–ï∂© Oj¨‚Fu3IdtÓ®»kÔP¥ı\WÂ,j¨£x<V^œ±√ÂRUœ%®=Û K±%H{5–∞J¬L∑)È§4Âµ¢yJ¬È.*iä{L|Í≈î)m$~s>ÉZ£ˇ Âœßæñb'‘5çÕÍÄ¡#)kNn“≤svÚπ≈„∫öüj®me-h„±∆‡÷´a˚_wmrÑ¨'àpå8wIœY—]tnÊyQ"°ËúñOWTÕ—ÍS§u5\äWã T∂WπZöîßàVï:¬“·Ä≈Çââôg⁄ˇ mÓVÊ’ƒ¨+∂YRn¥õuT~ììt÷ó’öö∂Hj„™W+X¥„T*»dºøm·òÊÂ˜ÌJÖc˚X!»f?úE√Øøªc¨¯ß4¬ø/B(^ÒÜbòãœù¡‘OÃc∞∏ÖkılÂXÅ¶ïv“¯d÷Û6o9ìÙQ∏Ó[Nﬁth€áglÊòmXºXπêAÅÚÊi•\%HÓ(ÒyÎ9;Ÿ˚ÿ<Ã£!â,UõTö0xˇ È˚ó=≥	kh¨ïq
+Ô.f~|GñÒ‚:F¬Ì◊“¢‚§‚=ßÌRE¬÷&|1A⁄Â∂s+Ù±vÒÙô∑ÿπÜ’5öS$ÅpˆÍ™[2VYéDAæÀ#ë˚âéÌ∆»så…PÁ3◊•JËLÚ>µûÌÁ≤¿˚«eÄ∆pv¢iî]ÃgNµÿ=E"‘…˛2∫±õã/•OJXŸ6ô*N5/BrÚ¸’6,–P%2O:ì©â˛†·gOfÛ∫e5tÆ2∆WEË¸BòÉ«ÅY[k‰sgR´6L"$ Ï˝ñ¡¬>⁄EìÕ\Ch!G%*yc˘4¿e–Ó·g∑J˙Ëñ
+Êû—ö+Té>˛únCOMô‰{ô˜vn,b›∆ÖÅïè)"‚0Eæˇ Q}Œ∆ﬁ◊ÏxDgZXeÆiZÔÑ“Ÿ¯∆ÊSáƒìP\?%r´®Y^ˇ πÄÒûo&€ÛﬁK8Üõ:ñT^$Û45Ín∑…TùaÅEÃﬂæç/b∆#ä™‰(‘ÂMeAŸà(\Ú>s3∂—Á¯Èß.È]aîî‚éz“øHi]B≠YƒwsIvúˆB#p#∑4í·à>«sŒ„ÛaOô€«@Sßy—^(*È_5é_7´ıÜ¥‘Ÿújpˆ
+—‚,„SÕ±E8’~={ù±O®|O◊û©RúU≠e∆öd:–æÆiô◊ñh€avïÓ/È÷¥‘âjÏ^¨æI«,e(√≤¬ç≈ºhÅÍlßwW8∞©	ô:üZ†∏›oV¶e*%'.©†mWÆrzßR¶S-Ö’8,Õú\Øû‡1ÿ˚,®«∫v! ôâ89âü=^2ÛWÕπ	í3ûG•kÌ∂ãÏ7ºƒ£èQô˙UÓ7“]A©m`*f4
+y¶‚’©ø≠*^Ωi:¬°m˙â[RÔ∏„⁄l, ñPP[ƒuúπªØÉ:Ã¸ßÂïoˆ3M][Ôï6§jI˝EiA•∞óÙˆhä¡i›[Ç—ïr^°È≠7V9-›®“’5{]∂•+\¨Ô)6«Ü˚îtâm‘®- ·≈ƒ|*ıÂWhEô$íìΩâ:«CıèïvW°ˆj*çléWF3föÙ’Ó©›«‰∞◊+0Ÿ¸fJª™ïÖ‰b	DjEr«.èµ.ØˆÈ∆·zë˘¶<c∏•=öŸJKé7è"ò\‚Ç:soôÙg”Ï-Ù`hÈKU≥.ß]˘‹–◊ùòßæ*«vÔ¥}£XœfLB<;Ô~ìeÏi‚^Çf<«ÔVGc≤á12<¯Dü# õßß2∏-<-∑Èû%âØAµ›©2:ûÖ,ß∞#$!rXí§,DÉ∂Æq  Y…â(L•xˇ 0ÂıäéwÁâhQÀ
+Sî˘èﬁóiƒZ”πÈª‡V]ZµUh°f’bk’[ø©o
+Ó2≤DK+a√ÃÏÇﬂ•›ºq_Ü±â3©~ôUÀ[+-ËsÃ¸®Ò◊¥xj|Nñ°ÇruåÊsÒW75◊ê∞V_ìßë¨hW±±›êÓ÷‡'æ„‘UªNI3™â ˙ivm°•‹óà— ∆zBÅä≥’¯ÃÂ˚ˆ≤⁄|2ô\F=\r:{QÂßHﬁΩ£t6ñNíÚR˚qZVŸéÛHy∂:eÜ|.j>zgU´⁄6p©°#>»‰~‘^Ûpı*Í+⁄™ÿåiïÌ<ΩBÀüW>kA˚ºÜu}á©0¬Ñ≤£¯yéío›¬∑j√2r
+?!ßùXﬁ4.@ƒ¨eB8íúæZyiâ}@“˜ıˆS!õÙ≤Œ/Q“¡ì±ã}ﬁÏ*‰"2òÃºw⁄ó<ÎgjƒOpx!õãwê»HZH˙ÉÂ”»◊À˝§ˆ:›¶˜ÏÅÜx∞ÁœJP‘Æ*¡·≤Yt‰®ÊÆﬂ,b%uûπ{É¯…ü0Ú;@îƒÔ’˚.≠@9◊«∂ﬁ¡|¥ßQ„ÂÛ®t2J6ÂbedßÆ\ÿû‘üng±&≤PS;¸u`Ö%UÑvŸP:Sö:üàÓ∞óêeÅUG]%œ5ì"T§€í"bdd£~†¶Û§…!Xtß&åÀ‚ròÍ+…„\≠CMOªá∑[[Ò´SÁ¥´°>8TÌ¥q˚Ë»,·!YR/®…»©¯{,…π˘‘YÓZü«Ÿˆ=±Õåv=‘ÿv‰Æˆ–©àà	òÇù˜Í≠C
+ªPVÈ¡ÉZŒ‚®d‘i+µj∆†m7‰©›Ç∑‹AﬂL’mq3ggHÛô(Éâ„◊1•y∑ü*w≈}+OR‘√Xe6
+”ÁRÜ$öË°ÓÎÒƒ¥ﬂÉ˜·ﬁöÊQKˇ ¶z¨Ô'ïI‹k3´˙‘≤ô-EJÕ¨^:ñHıIÊ±µìdä∏‡Ω≠ü∆T,âO>…MI‚ò	s\˝.veK$–4Ú®4ı0„4ŒNñÆ§ñûWP‰ú°wr›f…„±⁄{3&≤˝ZÊ•qjÁf@îœÌë£≈]e%≈Br†jﬁùat™tˆ9¥Â⁄gTd≥ö”WU^gÛóT
+√◊]ñ *ÃWw"¨ã®‰ô=…Q‚zJÈ;ƒLÁ‘t≠œ€*∑^'úπ—z¥ﬁ^ñZÖúpﬂ“zÑ±W4ﬁ{MmÓ.TM≤Æ·ºÎ|RõπUyùó≤∏N√3√ÕuΩ∂È»:ùjÎ⁄k¶Æ Jg 9v•7™X·∆+H‚_˙K‘{ÈÓøiÃZ,]±uóPÎ‹9√	"òà⁄KªLƒ	nÍQΩVp4÷f…’%XìîRÀDj´Zª\‡í’YºA~æ:ﬁ2‚◊jZ:%é∞%d ªFx—ã>c∂˚t v{LFËÍ’˝¢V¬± z£I†26∞:cWhù#TÆÈv”±ó“ÎÀcÚ8¥€ñYŒi⁄÷ª∆±GIﬂ∑π~ﬁ∫Y úSáÈ5WmtíJ]Teï7/—‘5Ú9Üb÷8J‡öØßÔ´èø∆-Ë˜ñ¬≥˙§…4@ã·<Ñ~J·A¨@¬öUx ÑœzPk6r˜ÆösG·u|~/[eÆ^ƒf“i{ÅÜ∏›jÕçqÌ†xUHû‰"rC;tgƒâìÙ´≠ú∂¿¸I)—]€ñ3ó_√k'‘ŒÍú\Ö|6RÕ∑W…Ç“Éb±|x,Æ!Å≤∏©D?¢S2;É‹ñ‡<„CV{?n˛-√(ÕßÄt§”?“]gc%ãEâ<U≠KSä¨9Xx‘,¶Wb-oT'âZ©π∞ìª"9Irâû™ŸH¥∫V-<Ú•Wme≠LÑ$íûs◊∑jı‘öÀ5Ä∂ä˙x∞ì{	çÃ›Ωe#gï‘_˘mYú}’ºÄˆJ!åÉãw ÍÒBé*†Ksôú©?Èˆ’OQTÏå'!Ñßô»FnÇTÙŸ«‰!N+UïﬁÑê…åëH¸ä&"FTΩy≠ËhÛ˙’ÅRîŒB≠¨.!ZkPÍÊ›≠É ßöeLÀÎ’Œ?∫∞SlíéfÕ8p±c∞DòÃr⁄#¢Ÿÿ%µ„å≈W<·p¢˜§ΩçKåÀ`1@Õ0X_Q¯z√ì«deµä0p’‹≈Án\t˝ª•RàékÇ¯ˇ 1”PÉ≈9tÔFK'24ö
+∑™6¨…eÚC3aì"Íb÷DÛü”w#/ÓSÊ~˙r≈V@.<4˜‘∏Ω9®UUô§áO#é´ù‘píØò«¨2≠/∫Àå˝K‡ªc!æ-Éü∏Î„Ìõ∫ƒúr*<º™kw≈ü.t05Í‘øg›ÑËúñF˝ln7)ã]\éƒe ¢øNÈÆ◊ÓüàòáÇŸî©◊/Û†à?Ù´∑*Ê$(˘’∂†,éü…[œŸ∆‹ g¥ŒÉÄ√wG$™˘´∏™÷vH≈˛⁄·w‘Ô  "1“ÎS.ù“ÓOÂòöÛe	Vgú|ÍE;g•`ﬂÅµ¶sZ7ê÷YjàÚÅû‘π∫qá¸“ÚÑFëú´Ü‡∏Ì˝˚q¥eÃ	^4`›'·(˝ÙÁL•D*Fq S~ãqÅG÷é”Tj_∆ﬂ˜u˝ØrkÖtYÆ§à´íè·,XÑÃ˜<ºECÈyK[ìû(éQ–vÆ)a0N_z^ÍlÏÜt±9•/-é∑Ì3©´¨ò-∆ÿ∂J±]PµùsË™¥ÇºóÃJ∂Í„g[‚o ¬ïö“ÎYY˝=i%:eèƒR∂Ï^ÜüΩS∞jìœT;}ì> bÇ@π|H≈b;Oôºµ∏q%`ä Îü“ØsVn∂ﬁÑ∑ìÃß+ZæjˆO*!4≥%r∞”UWÆ°Àü-0>‘∑bQÑ∆ˇ œ]≤a+.∏Î|9ƒjû˘Ú£Çïb«í*&;SXüP4™}çÈ°Sc©hû@Â.“ïi¥ cÊuﬂ˙°º«(‹Km˙odÿ†ÔS2Ç'œΩ7cm*#@s˘S_)≠K•4˛JÜ.ﬁcß1Èç-Æmn_-^ìÇÆN√˙CJD£G»ŒGh˛zRÊ_ª'XÃûÙÚp∏<$ú£˜5îr˜≥örÊO›◊Y‚µ”ø,Ã√∆Uñª~˙
+·”FÒ\ø\+ê¯›{«◊W[5Ü^^ ®-d=9˙◊Z|ÔcBö⁄>çˇ áYN˝EíFÜ¬Í5éS#ö»€FIô;∆Æ}‘°∆®kA#0l_¡p3»ºuπ∂±h£≈û’l√∏N,"æÄ`ø,≠%ã¿Èp…‚¥Ü-J∆„sY•ôCV±)3}twÏ◊&Ñªèƒca.Üı“újS#8Ãr¶RÈ$ò¶w©:◊˙GaX∆[<Ü^¢Î‡Í©sÓƒâ˜6p;∫'˚—Îƒ∞Å ~*∑ÿ˚-À’√y´ Ä1EÇŒCR/›Cî∫öã…euFÙVH%: *=ä\BÑ£ëq‹ãˆ˘ûêrÒ.9‚Q$L‰0Êd~î¢›‚)A•7p˙ÿl;dd)ßõÓ:’7©!]`R,¶Lâ'˜ˆ@Ô3«ˆÔ’∆Ò!§5°8ﬁ#î:◊Û÷≠™2È◊9LF+9ï”·vÊv5Ù7^ﬁ6≈∂v,Ãﬂ·›∞˝¯
+vÔ=gNŸ≤∑JR∑Säbg‰9UÎûÜõN5∆A9ü•f ~úkgÍ”Ãi˝A4Ógj–]å~8¨U9õ(‰&F ¬'h(ç„}˙∞˛§⁄ìP∆:ÂZ´?gˆÖ´8ﬁ∑)=ƒ˛ìZñØ¶æú„u>%8]C´∆£n‚ÚK‘÷Y∑ëqb≥öj˝(Ä.ÏDèv&H7%…À™{t'vOëè‡Ø¶Y{=l§ AJœîG(Àü:j´◊xÈi©¯WËzYï”¨à√#Z”x≈?j…ÓÀ≠6
+V)wû0^xÒï-]∆¥|#)Oß±÷ØoôKi)∑O„«h˚‘\û≥”ò ÙR™uùü«íG(πû≥âI¨WéÕp#ûUõÿ?0`¶Go¶.⁄ ÇÃ+%Nr9OzWe;Ä`}∏úÄ'∑Ì]q˘˝™©ÊØ≈Rj›”-ØnÓä `iän≤¨7aËºiooìª≥#ø)ëÈU0¨îõÑ/·ì™{IÃzUõó≠†cˇ €Ú2{ı4eÄıí⁄≤ô…—+U›V:ZÈ5ûò6âV›¿DÜ"y§¯òƒÃ@œE¬€*ÁƒT»g@ÕÌ6FeH%≥ÎW⁄q˙G⁄1ë°∞∑íwÌ>íÂ,ÂeÆíIØ û3Oy€`rÁ∑‡yª•√Ï‚ÖïG™~Bû{f]%ÖëÜP;ıÛÁVI¬‡≤˘ãsãÙ?“ÏnGÒ»Ø˘}J6)‰Ïÿ¥‚];X-öp	ébd»dœ∆&?Éu3ªﬁ+…e?I?:†r¡‰ØznG˚#˛¨@—ªp˛ú–fí«iE‰0o3≈c÷zéæC›æø'ÆéI÷{∑ëd·äˇ |Ó[Ã2›™\Ò(èüï"Ú∂Ü<h+3ÒzÄ˘Ã“õPË∑cÎ›M‹Ω-;¶u/¸æXÚ-lQ%‚≠d-6
+|ªÌî™ô¥ÔÒ€™Á^w4†iÃœ“2¶ØÏTJ“µfFJ'êÎJ|™◊zo}3CZ≥ì∆ûs1ßÛ/§∑u<´ïKTá0_xXC%∑‘m◊ñÍTü≈OÆüˇ )´$ÜîπÖOQ•jåVévjéxqÿ∆ †∞¯k´*EvWï“≈ M|ïœhô‹"& ô`Å‘H©"–xå}>¥≠∞∫g'Lûk%®ÈfVÀzu.=Ç√‡ﬂVq˜√s©	Ø2£ÇQr·ÙQ’Ìç Õg#Ã¯æ|Î‰û⁄á∆‡!º'¡àÓ◊˛‰Ú¨≥©t≈eÍk¨ŒÌm@`ÄNüiñŸW#X≠’d»ÚQ
+Fw%GÀn_(òÎDÿC©ﬁ†Âﬂ*¸Ìyj˛ÀSå<Å<πäù5ó∑O∫òÜ¬óà”ëojç<ïàÖRÖH&Ujès ƒæÁ~äÂ√I»fk"ƒ≤Mh∆h÷öÙØ%NŒBÜ™…eÚ8wd«~ﬁ¬Sããñ=Ør¡AÇÎ⁄"%ÃÜƒ
+6N√„§◊xÖ(JbñW∞t¨ÁÇ‘ŸvÎ≥>˜XMúäËÊ*Éâ£]&kZ+ æ÷g‚yLÌ”ä#≈5kÓà¬QW•72≥Íﬁòá^«)3S%V§÷ WÕ3Øq®“yB¿›Xyôx·+ÊÀ•îTA2zR˜mßY”K'r›jΩGì…–èÍZ«{B’8ô»’&˜ÃÕç3‚B@U˘KO˜á(ç∫E-‚J#¸∏–˘˙ÖÄƒktÜóÀ0p§Úﬁ!¨}Ub©5‡wVÉÌÚ]R;r§Ór≠ò©¶"¥¬gB~^t˝ª÷·Cà}iµâ◊x‹ˆî,ﬁ±Uè…FfØß˜skÌ5”∫ölq«±ãQ√àë¸£Ãœ^{ã1H;d¥9Ñs¶^§πå’:÷æBñL2Ï}ô‘x˚4ŒzÙTH∂n L;-bxÃ«âG«}ß®≠8‹u(8π}h]˘œÁ3ñm’…^‚+˚-Nw Ÿ4\à¬¨§£π ¿‰∂0ww$[].6¢ïÆAœ +©Iòó:ßƒf∞:›tmÂ¨#XT¬Êï’MΩÁ5LcqW}¬ƒA˝ èZ,û3
+ﬁÚô.ºÚ≥ãêÆ©µ∑=+•üOãTÁtéÆ"-'®4)Z≥óknTµ| ™ßá®€+ ¨c∂`
+ŒynE=tÑ$~ÇuüµA´•∂ïB®ƒ“Ù´XN£‘YãX‹÷P.&(R‰È>ô0H;,qç•&ÃÆJX∞Ã∆¿=.•<£Ä
+#)[»»p˝hÌZﬁ÷°‘x|ÌÍUqZcPb"ä/-¨¬Ω∏ï¨]óYÛwÃ˚éPûP¢3õm¯KíÆ$)î´wôÔ ì£Î‹V'R˙c{N≠Nù!´J˝jπ>”iQD.0£Eç`K%Dæm2'∑ÀñÚ1”ç)-ôö±µ∂Zêµ+ß.¥êı+6Ê˙®t1yôÚ,b1äcTäı“ËSÙ/ÅB{*&	˜N"fKÃmÙ—uXM’§°Ö)|∫kZØ´≠`Û˙ÉLdqT9M=EãY*=ÑYSÅ∆(≤Öçr6´π2N€˜Ï?Õu≈©}i:E.⁄¡nq´vÎlfπ∆ÂŸfÄÍyπnö-õ◊ä≠/VH@ì~1(ü\¢W=BÒµ2¶¢òÈK¥êU≈•p“êx•zj˚ò:ÉV‹ªâß¨™{î◊/a`^j≤wRCπR™@…í-àÄ9ù£†›[∏$ M*¬VèÜ>Ua™+c©˛GHå7)á≠Åöxù@ƒT[2H≤÷kÈ≈*lekEmÊf9na,ôé;uh‚qÁ',ˇ Ê™Qú9TqÀftæn•≠a‘ßâßôÕ0˚Ÿã≥I3/©m±`l¿øÖœïÒâÛ–T‚Q I£∑â&sJ\Ÿ”zm÷l9^òzqô[^m^`ÎÍjexH§Ü·SL ÎÀ„ı;aÒ¯«àËÿ«:m7
+Zf7XiºÓQ8≠+´*ÎNGvã0ñqNå¶1»«
+≥X∞ÓÏ◊õ(ô òS$OTDl^z¯È≤πGâàÃ+Í)¸%3œ:Ö¶4æ®ÕSK±Ÿh≈+5òæN…RÂc©Æ¢ÚvÈ_°t{OîZæã6 ûQ◊æi$e%1îÍ|«Z+,úÇc>∫w¶M|ı]8Nßjˆ]¥ï7‹ï\©›¡[≈DµlπMlèr<Mí√LÓ_ÛÁ™W%Â ì§Ò%_µA‚á8ÂRh‰azco-Ñ ±ñ”ÕE\&=ÖZ?ÑªﬁX◊qúùáﬁá3π∞Ã yÈï⁄-.î$ÁàÁô˚u‡Ë	ıÌ@∂3l‘Z∆îÊq£ÈŒl∞ÍŒT≥íÌ=wÈŸü»“fLî"≤ï¶I}ßl⁄Á€ﬁ:}∂wÎq•ÔH8Tû¸‡}Ëõ¢dí0Ù™lm∫zã%ú¬kn∂Ì•Uø≈Îßz°\a)V¨≤Äu9‚NÚÿD√ñ√∑G^%7â∞GÆ}<ÈU`åC#ANΩâVåœ`ü*ºv.∏Rµ•ÁÖ{ñÒ√Óé©n}Ë§»˜n˝≤R_ÒY⁄°Â∏aWû±v5˛$~µ[ÜŒ%öÁVSbÏärUÙˆ#Ã4Æœ‚Î*’{ãmqdDW÷ß˛©ﬂ˘ÎTwMÏ√é1Oúr˝©ñ–J9?NT÷◊ˆÒbÓ^.‰smCîÏ˚g:–j!¸kà*‘•˚âl‡mõÔÊ9yûñ≥+aA–“Çº©´FñÖ‚‰ûÙñvºM˙-ªµ±ìiYHU‹Ucº¡0°¿øPk$ºÿ»O˙Ô`ÃÌ∑@∑aM(∏V©·ó˜£¥„…<<\≤¶Ôßÿ=˙¯Ïæµªfñ/òˆW’®ã∏ÍÍ]± IõD≠ø≤ÖYDà¿ÃıpŒŒSƒOπFù®È¥ZLGÒV’”^çË6fg_zÖé”YÎ¯În√Sƒ·2${VÍ∏ U'˛jN€cxÚ‰1∑O‹6C®]√Ö8éâ·ü>ıc%2ièÍß©∏çÜW≈ÁqGçTU=PvÇú—®¯≠jø(ÇëÔ¨™=\~<ñ_œU{wmnúmñîû>Û¶≤jWHq≤Ã§Ä·Äz’1˙ÿçsÈwı™”K5n˝]Sw	jˆh§ØkOêdEá≤Ï◊¯v‚?|mı“õo⁄´P€I^∆À(Øßl›òÓ∆&·K“Ü‚‚˘:lh≠U•√9≠GmuÌ)FõZëmò˘[Eñ=œ∏o∑©ÿû›nVúv˜òÍ€`ÿ™xÍº^ÄIØó[-…+LôÈKﬂU?≈6ÄÃj˙~ö.‡júïˆ~æD•⁄Æq}Ωÿô ~X+k∂Â«~"1Ú/;uÌªyz˙ÄíÿÓb¨ÌÏ.bGûD¸Î˙ëWU˙ó®ÙÎ2Y⁄∏Lßÿkÿ˝)á‘8|¢)k%¡9Ñd◊]@ á∏⁄ÀÓ+èÈy.±["Ò¶Kâ[jRé∫r¸º¡◊:ﬂ{	±∂≠ªÆ]≥n¨ø,(®ôÚ°åß†Z'SXƒ‰jÈÌ7¶2:s,∂fzk-ú°à‘8k0‚j·o$YTÏ≈Hªf¿@˝Z7∂ê1î©ƒ∑
+!KAÍ	J˙∑‡∑∫ﬂ8‡ …
+
+@|ËG¢-z{g/NÓ{/U÷éù k¶w/i§ Ÿå ¸„›wB$kÇŒ]\æBQ=Z[ﬂó[BRÑ:∏ôNxáq™MW€ÿ€ﬂ]8ÚoUπNâ≈Á ÆyI¯]/s÷üDî≥…éPŸã®ÎYºQ!^€ÍxõjÀjÒÇkßí„˜LO€jZ∞OªÓ˚ì√Ú÷¥i≤}∑a0≤<0º’ÊI≠°t˙4àe≠?Z€ı⁄ã¸∂çL±‘◊I!ÿiQx0wL%ƒ¬˜	.f[œI J–Ñû†ü˛⁄Î≠æ¨◊Ç°9àOüqV‘„Sc∞òºMä˜a˘≤µs)˘¶™Ô°à‡c⁄≈1_`‚vì»Á™Á?ˆà˘Õ\4¶‘Á#HÃP¨–T=XvWÎõT„lZJs≥ïµV‚+bmÏT¨WÆB‹åƒë÷ÖîîN√;o—ôSì¯$°*OëI∫mRS°BÇBLÛ$r˙UïÏ1i$†¶*‰ÓÊ™ÈÎz&Xjı≠¿•L7¡ "Dπä¡dÔ7Í,©Å){ı<˚ó
+‚i[º:§ƒ“y˝(ÀEj˝_ãú˛o÷¨ˆÜö≈PÆÏ\´kZ~ÏnÇÆbÿå\Kì‡ 7ÓO∆>˙u«mŒw2Ë˘˘(VU˜w+q%¥ (,u"r ∆ú©xªZnÚ=AÙ‰ugÆ˙Rj:ƒX:Ω„´GﬂÃcÏÿgte⁄7í⁄7éµq∫yHΩû 	–ÙÀ*nË-Àd5ºJvı“´SÉ‘^§z¿z∆π‹Ù˚IËºe¸WßÕBÒ5”õyàﬁŒYnMïkCﬁ2@ 0_Q„~§⁄ûpnù‚ßMA˛s†)˚[À.9)¡
+¬≥'À^Q”:9ı‰ãOU…eß:‹m¡≈N3´5ÒV˝∆V∏C≤9à%éö‘ê&lÁ0&d∏∏Ë7&„‡HO≈#.ê(€# O·¯‰L¬R4'Ω)ΩåG™8çCfÊá^C9 ¥pZœTSÏZ‘o¸D¶€ÈB∏rk ƒ!>'oOM›⁄¬øD™4O¬:eHŸﬂãÜ‘Ã"zâ3ØêÆπÌÉ±ã jOÓ‹”yÍt©c©aﬂåt‹≈3⁄µ)7∑√‡Á∂∂µìºoﬁ'™Ñáê‚Uãf'“¥
+p‘êÄqè'r>üÖ›Ú˜◊ú˝:Ò´®_EÌ∞ˆ}fUYCΩ dNZ&$∆fFwùßP/H s<Üï˘g¸AŸè[0naA;Ã&u≈ˇ „W≠0¯à,#ÏbÕ8ºK.È,÷ff“,ªEî“l±àe]òƒK" vèÍiJ¶bæDÂ´éUG®uˆ)Z/?éÂ|ÔÁ/:∂6
+√QJÀWÓ¢´'ã†ÖOf¸9Òù˙„-´}'√Fgg:W≈ñU√”=3È©“ZÉ+SHd¥Ñdqf*9m_¶˝§€≈0—)õ¯ã,\µ£ÀˆéC”è€‚ÇŸÛË(´y÷8GÆì˘Öu¬ˇ Ü+:]ŸÀ ’‘Û≈àÃVvì‘’⁄Ì≈Y∫∂˛bÊATOú)j„⁄‡Ræ˚|J:Sâ∆º‚ìL¨A\˙Q'ÙE\oß¡í à_VòE´ŸUıππøŒÕzŸ‘ßbÏUáÃ8ÓREº@ƒt+åöé ßBR5§W¶UpÕœjL¶≤ ÷πèª•¨—f!%nÓ3=hi˚ªS<AOÅo‹:$ca⁄6Í9ªó*≤∏i∆ÇBu&ÖjfÒ
+“zós!z◊{*Ïn'açäUølPÂN¨¶¯`XeÒ/:Y[‰µ∫b˙U°c©W8˙Ù¶çΩiè≈Î≠+ü≈ﬁm·Õi^&r‘2˝!†vT)XDê∏F9IÙU:Z{ãJQVN-ÖÚ5g©≥Œ—⁄«+KO+(¨ﬁ	3úøaaØÛ	L§_œ€è6DáÔò!_‘LUÿ]©Â8\TÒe⁄Ül¬ê	Ò
+8»c¨ÂrÿΩ[¢±ï±ﬂ—Z{/ìÑA∂ısHZb≠ãNcºß;∫¬ù‚O∏ΩÊb:Ì€©hx»∂s4£pñ’÷§i]QÇ’˙_Oﬂ¨¯¸˚1ÖhÖˆ%EözîœpÏÖSí«t˛g≥b8DxÍ›¿Jâ≈=}y
+Øª∑SjÖiHø\q—súΩ€-£™2Xöó[ÜdOlJ¯ëŸúcÑ§Zê€ÊØƒDu$É≠?≥÷'“°ËoPrzÉQU∆]´i©-;4¢%≠∞U‘È˚[x ¡∂‹’É¸Gèú}tM†¥!≠3ä7∫åÈˇ îÙøBô‚r^£já©r∫∫u¿´jfN≤Yë~q2≤lc˚‚ª(Ô$3„ÑuNÀÆ{∏–œSK‹J·’Á®òh6÷∆e5∆<®gù›€/Ö≥Ÿô\¢"â∏x¨Ã
+E+íÅñDœé≠mq%÷í]√¡D'C≠.}FÙÀ/Å∆h”«Í:◊ôôä⁄GQ;"cIcë~x9ñîŸóÍÚÓ¿àÌøO4ÍÇârïuó±»"ò-Éc≤VÓTöﬁ§j<bÌƒ±Â`≈k*ΩîÌ09Æﬂ˙Z˘9€åı]r1Å≈Ñ$ÕA7
+
+îË:–^Gd¥v*ﬁ3ÿkÿÙ˚Y‘±Sòµ|h‰)◊≥Rü∏	éÙ„€‚‹GÙ‰|Ô#s|uÃé})’®æ≠F|È≠°∞:r˝™⁄«?î£úvó‘W4÷áò¥±}¶\¢ÕåñB>“≠[ä¿?–Ês˚∂Í≈Ü÷·Rî¨≤è]i]›íÑÂ˜°}o¶uÜ∞◊˙vÜï»ªOa∫fu{€ì¥Øf˜/8æt'ñÅGÈ l";¸`fzı”…Ch‚*?!MX8 Té.¥l¸g¶’ÍáF≠£¨”ÆVN›∞&  BXBõ±ì€}É„˝ºu‡É÷ìÇjáUÍv˘v+S§ÏÇhÍpuGæ4·ÀÏ’ßUOøß±âÀ“ù£ÁŒv⁄~.ãw!kú4ôÀ˝Ω1U∏Y!ï9pOª©Ù:õp‘,∑1àµÉKoÆÌÊ≥µïpDƒn%3ºÓ1‡‚zØπixÑ‚‰|¢úte®üµê”˘π⁄ä÷@ıi˚Ùg3NMw¨iH:”“˘$ÊUd‰A í#Úﬁc´¶â_¬®è:Æ
+ZÚ:ˆ˚‘$buÆî’∏ã\KI≥{.˚~ÂÒàEEñUxúÇ»°fØm""≤(éb;Ùk∞ªr”±«ä0˘ËOZ8Aëˇ 2Û4ºµÍFüŒb¨j$h›…eÍÂ?#ú∂∑∑SFçe@H]Ì-uH¸'â.$äbzµN«y´âF`L∆Y´3D,8b{t†¨öbû™=Kè»›Vö „üC-ò¶,ˇ $W–kMÑ•úöŒ« ÇÛ øØt’∫˘j·TÛÆ6»ù{–‚Y{/©15LÂi∫ña∏\˝|PêeÍcœ¸Õ€,J¿¢y¿	ú˝Áiç∫∂xnÇîûá]'ΩX∂ p•J»˙Uú®ıòªC01ei¡å∂›J’ŸI˚Åà
+Ìª»ı?Lr/<c¢X$‹°†§‰3=	<áaL5)3â◊µ]ØNÍç` ¡Uo¬´Ÿ∂4daYXZı.-Ó ^UÎàTê™–!ò…Ç8â=µ6£sªIˇ /PöV∫œb3∏+yˆ–ﬁRnÅÁ‹Ú™ËŒ\Ö|zÒ\5‰,3!m't(˚`u|]{‡ö◊Œ ·é€æ?æ8ß“Q6≠á1H<≤8:Hô∑;ƒlÌ˛ÂM•a@©)¸·æc©ÎZïùh„≈g}W©Ñ«ÿÀb¨.é3ù¶áU≈£Xid®ïJÃüiR;Ÿû=ﬁÈr9(⁄zÀ;¥‹¡údbY8íN|∆f®ÿπNŒŸkq∞“•≈CÍ2‡ÂÉLË©≈iÀ9FÈÏhöÛ’1¿£MürÏZ3ó”Ó≈PqHF6·û;ú˜⁄gîu]ç˜[áVJB‰OQŒkpíªÙ∂µ \PY‰ô#Xª&ãµ2ô[πPÀékGn™á'73y∫J˜UÈ)Z≈Àk%¢[¬ôŸÇÛ#ÓkM¿	Ã+8˝*“÷⁄‡m2\XB[QZ9\ÙÀAœïû}Âó‘√‰ÏcêÏux’T¨V¸√;©«(‰ˇ Q[r€ J≤ôﬁYbƒ∫ºxøÀ0ûÁŒ∂[ˇ ho“ç”ÅÖ~TÖû•ddûÇÅ1YyÜ˙Å¢}LÙüôÙŒÜÆ∞Ì/ï¸õj{µ_!…≈	 UΩÿDv[ÛÛ±uÙñnõd·}‰=ÃÍô˚~’ÙΩùÏVÍZ∑À˝FqyÚß>çh]2º&ÊC	ã” ßR3Z{#¸åv$}µ[yjÄ´6,(™ƒëLmºyÎ°˘8ÇŒ>dAì÷⁄¥(ˆA…suë»(H	ËG:◊ûßßò»‰2˜1Ç§π‰ØR≥ÿô≈Ü»CüÓ^∆ﬂD!E$óÌÒ3ºEÊ]∏Äæ$ı›ÒÉ˛‡"<Í∆Àg⁄ŸbZwIpù[I@√ FÑ˜5I§ΩF”ö•èµ°ın+1QÍ£§{ïÏïàQ°JVKt.,s˝?101<¶6Û’X¶ÿÖ<Ü»VQØŒ+◊õ@^†≤ïâ˘˝j∑‘8<-™FúÆH}JΩ®≠=¯Ã[©Uœ·±r¢+28Ÿ^'Ì∂ê˝{&›˛ÉhËAé2ñŸëp¨¸§öWfÏÊJ∞%¢ByëÄ+ÁöæT-ù,6IxL¶¯À˘¸ÇËc¶i#Û9ÉJ;aaÿÒ9B"cìû›î1œù£†!µ8OöéæSZlˆÌŒ8ÖQ^'O˙í6—ú÷Ω?êÃ”≠¯‹}∑]¥J∆≠ÃÔ»cé™‘÷AºﬂÇ„P1o”om2‚ARh4R÷Œo∑h¬Wöá_9Æ®kø_lÈåv7EËÕ/™5EÀh^K/¶&‘√πQ%añó8≠6!fÂ¥èû¶ÍÏTÍ|Ië:‚YhlÒ9ª*^,(A)Ç:ÂôOjƒzÎ&§√Â.ÁΩA&fìw∂:WMÆïb¨çãﬂe˚ﬁﬂ¸˚&xà)<x˛ÌŒzî—<(ÑdqSßj_¥ÅçIÀ·°?Ω[h˝7BÖî‰34≤~ß„8#L‰ı~?1kè¥˘›ºùUê⁄≤µ∂ŸQ(~'∑À¢©d,,§—!A'÷Ä]v˝ú3ßäFj= 1¬z—™:7ê—zG˙πÍdOò•®Û£,∏mÃôﬁ:‘R∏®ç,.“DπårÊQ„óQmN\.@CöFB˚ÚöØf⁄›†]-†ë3Àî∆πˇ ≈375B∂L——∫]Cr∆NŒì ZvØœ]ÔG^±K%ëdGÕRQºœÓéÜ€»JwgÛîÒ#ÂW(II*OÅ]@Oß>∫’û9Î‘\ÄTıQc=ñ‹YΩ†2¯¸pRèrÆ› e˘ùì™<¢
+∆XP]M.-)¸6Á˝YÖ≠WΩÓÀÑÔ3<ì‚5YoB˛/K‡(”Æ∑Ák;<÷g'S>U™âI{ú∑Ô∏ïŸ|¢$π¿@ÃLF›8‚ø’b_$G	Û†êá0≥ÄÜ8÷©Ië”≠!´bΩTπ´¨⁄ıﬂ‘úò#A_Mç/˝2iû∆EFER€ïHq¿òàÌ°ãÇ")ˆÈΩÛÂ ['vØã/ß:RŒ˘µË9oHÀ_*bZ÷Pj{˚9ëSÛÍ∆N&Œòƒ÷b∆ÛR‡ml…⁄'
+dA<b∆6ôÛ‘"ÂÑ¬@=3¶KWj¥†´/JS‘Ωo:‹•ª„çÜVçÏ◊ı6/$ÎX⁄/.Mëw..F≤_¿∑ë.ò∑FÎ\@t5ÚoÒiYmEZ•ÿqïfà◊‘Î@TÏﬂE¸Mæ›V™†Çf˛0—«,ï6~åì9® ’hj“F0a3¥˝œSï2LàØâ!∞ú„*„È∏”≠îÕgR\‹F`ıEXxWn8´(Êêä#Ùﬁ÷6«)€∆…èo◊[qìﬁÖ∂∞Rëïz#¶jÁΩy◊1vÒÖ´ïåœNõå≠‹¬YµVF2H9™\©˜W›ŸÍﬁ·¥tﬁÑHÇ:LØºI¬Oüïjà¡Í] Í∏,f%ÈV8ÀÆs√æé|‹êøﬁé‰B%€* HòÄãÖ*Lùe÷@§Ê7U;Pd,i]#nÀ≥¿v4ﬁ&ûYùì•p)˜$yõ-äwm´b€‚EÇQ±GÅ,•@Œuj√E+ëÜ≤Óä«‰=E∆≤æY:¥0˜l∑^¿
+¨ç[+3H$gõXóàÿâTœÈsò˝º∫(ƒƒ2¥7ƒ¥Êö√aµfn2¯Ïn&÷°ªÅèÃÂ™bír0ôÓçÄ∂K˘r#2@Ó[«-ßnàËiIN,ßN¥u<ñ
+QÄ~UiÇª<±∏°ä¯+XZ
+ïÍY¨·˜Ås ;°ô&	˘è„«U7-©&uÔŒ≠Mæåé¥Ò÷óﬁ2'~Î+·o÷BlQ∫≥∆;t=ﬂyN˝BFCôEpÿ◊3gôÍÆ›Øƒ$&<Ú4ïÕ£≠$tŒHœ äÁTaÂöwRºÜt“ÃÊºMånC/qP·πQ§°	{g∑Ÿ|Òÿ‡æ¯Ù˙)‚V™”ùT•ï`∆ôƒ)èÈﬂ¶ÒJ≠¨æV¬Ò8<Z∏ 5ÚõÏ–µlìwÆ%ZÕGë~Úpkê0(€åı;t)XédÃ“;MÙ≠<>¥∂ıOO]ú^g©Ø&Ω›;ö]çIcΩ[He@∞˚T.Æ	L<†Iºê√ñ$∂ºƒu+´á‹>ºÍ;ZOŒñﬂ·œtıçÌ`Ñ«·¥}p«d-^˜=ïÊå	@#c8&˛>""¡gﬂEwH	Œi˚€Ñ°3ô“â5˛Æ»Z◊vˇ ΩXÜ‘õﬂä5πM"'–πX◊‹éÀe¨>Ü";Oé†Uå•Ω){V7lûø•0Úw3ﬁ≠T…iôm¨˛RìhZïÅ†«eŒSbF∞ÿZ¶,Ô$$“2=Y>¨)“ëh,ïUûúN2æAçghXZnáÁm‚"‹eÀ‘Óõ±ó^oì‰√»F‚ÒL”™ÏbËhé5ãâ<Ë©ö◊)™¥ﬂß∫“™Í•”»»ÍJ˘:¯JØ÷ÆñcØWˆã·ﬁÓƒJÎîÔ<æ±m±–RäRë•$Y	TPÜ∂ı	µ5Ü5ÜvTg4Gè˜àÌAö¢› îÅ◊∑∏≤J~	à‚?.ôYn%tfV(˜˙s Ì7Çƒ`’R∂™ı[„uLQÕUY¢˚P'uÏÆa&*Æ∞àÉ2wüØ[≥¨(…Vúç.\ƒÆ.TA¶pz∂úzÖä;4¢2ˇ ê≥Çø3¯tcœ≥a¡ˇ ß4“M„∏Ãœù∑èæÖlá	IN´èêHä~©°YÓÆz{ÉCM&Ü©Õ5»jŒ@‰v⁄Hfb~„«HõÜ'¡ı4Œ˛QQ®[úâ∑ñˆŸm®i´wñu∞¡î≈2ÿb2∑∂Ì-¥Âë*g)#LB‰bDz˘ı»Jô›•#	œ≤Gƒ4√ôòëFã}†∆1Vr*°ï«* KP4P¬]øÙZVP∞CY‹lÆ$sŒwëÈ$Ò¡	ô ﬂ•q…9å˚“K#üÕÜO!b›˚e£Ú9E6Ú±˝•uÌ.£˝Ωiñ{ÖΩg}≤ò_ôgàÒrõT∑KD8ú”ü–—-—?œ÷ç1ËÕio{ç‘x,6WJÁ3ÆÀYU≈ÿ®Ï¶1√*ú~)(ˇ ,B˘ÏÀâS2Q3=$•∞ÈH+8ìü	®u¢0Äk*ü•©0zÑrl.£Øe…∑à}nö8¥⁄ej∏ıÓ£Åú$ª≥˙# [o†0m¶úAƒì©‘ìÃ’∫1
+@Àô¶Ëi\ÙN3L¶û4r:ìbéC.9C8MÑZãò∏√∏–0©cÑl3œ ºW%y¿Œû⁄HJLµû@˛Ù¢îƒÂq•Öãπ-[:É±jŒPñø»öTôÜöÃkñÏR”·,\Ly£®Ì(}£ú•I–Á≠E‰KHXT§‘lé+5ú‘πú≈5¨ãóK©é»?˛V·íAR†lˆ¬v·\v⁄bÔ£ÏÀˆ-õmí~zFæµu∞-’vëní#ë"|ÎU˙oCWÄ,E:‘(ijwT‘KõãÕk(‹®ï…
+Ÿ4Ãﬁ°±`»‹¶ ºuï⁄◊äﬂ:ùÊÚÂE.Xÿ>˚k;Â¬p/êÎ™˚1WQ´Ü”>‚2Xä9RŒ·kMö∆∂™öeU$ÿ‚‚öØô5°ä8-˛1‚ba4nÀ¯ñ ƒ:‘ïÌ’ª«pSÖ÷îÖ&1Ö]#ï·ÛI≠¢ıp\±Ór˚„g#Q=˚y U lÃ~ü Qß‰∂8‰ÑÑvàù˙Ûoˇ óñZAÎX∑Æ7h-A‚–Ú>UÔ¢1ôñÊX¶;ñN&æ≠:¡*≠i≥Y[∫° -Ç"w˛:bÈˆ@L©*&ú∞≤›:=ÊSáàsÚöacr8°¿#.‹\·29ê£ÅL¨”VãkLµÓró‹πê∂÷ó∆K∑≈C0%◊l[À
+ôÄs≠¶«µv˙˝
+}∑–" Ñ¯fzSFÌ∂Â2˘KÌ‡Î[ŒcÙ¯Â©˚ÃEÕé¿åT”¨≠¬ÂÓn±Œ;F˚˘ÎY≥ˆJê¥A_0£ß˚à?µ}”`\9b√†\C™#Ñì8y H˙&óYm ŸÀÇÎiœN“u)Çu^§ªk9åB¢ÕB&?%]Æ:HÅ	∞d{Oè”À¥Cp%jùÖâOú‰j˝rÒÃE∂ú·ÊL‚ÚOÔT:ñû±©O	™=6§úûóÃÕUEﬁ"ﬁ†6;qWøC#åy‹≥]ºg‰+xèówo≥å%_ÁåπX#±Ñ·5oi¥K !A2¨Û|è Ø*É¶}6”Y›UïO©özu®,3≥ã˜xZ7ΩΩ}∂oºÆmâK”ã‚@DòRP2bÂ	Aoô¨òÚÉ•jl÷∂ÇB’-ë°IâÛÈ£î÷:W“Nå£Çån-5O<√¶ÏUl]Gd∑ÀMÀ"≈Ú €Z<Lc`€Ü›AÙ-˛<^êh[.ŒﬁÕ∞“†.5ÊjYî”öñéLÙ¯Â6øÑœaˇ +Ce7Öñ/Ÿ≤¸gdÚjU¢%Øå¬€0G∑DEæÌô+„¡8≤ˇ ™c“ô˜€íÍR“?Û”:>∆T£¶bW^û/ïnü©ß≤•∞Òπﬁ@']◊ÿôÏWàôò>|$»¶|J»w£péìıâ´7,√M©JIq$Ñ»é“öé‘9‚«FPìà∆]èÂ
+≠5‘TK≈Q»]æ›∞‚[œùß~éÌ T©B{üÌU,[0ë‹qﬁ)){_ÁÔç˙ym=_äˆIac\ø#åá/úÒp·Íe%⁄Û<üEˇ ñ&—ô'¢ôßB'q˜•V_÷ßﬂS1á÷ŸG©íË°§Ù4e,c]l‰ÖmóÄO`∂éÿY=Ê
+:d1p‘/Ö?ô@öÚÔòÕ
+V1˘`Âßﬁ´t'®~£Í:yãöüOÍJπ,ÊGÛYÓ≥≠‚XA	Xå=K(äu´¨#iv“_º˜ﬂ®]8…¬¥®èÀ?2cÈKlß±%RÀà	”G˙`ü≠ÎﬂWÚXö*¿X©ÍF}q|Ω≥ëá£bä†⁄∂]Z2îÔ[µ^cåLqtˇ €Á©0–t ùlÚ2◊#JÌ™”˚.JπÑOÃÚ£lGÙb};ÕKcÜÕ] Â≥◊≤L,¶÷∂Yé”l∑~5îIYˆ˘rÓDŒ˝2˚©(Äé?Ã8í~ZRV6/ër∑‘¥∆HûÓ9’z≥©txÊ?˘áß3nªv’õX}⁄Œ∆˚=ªµÎ≠Ü∫ã©23≤≥%ÊvüæÜÀB‡`ixcƒ É˝Èã≠¢≈†.\5‚W~Có≠~ƒzß©≤öpuS4eDP…ú"÷:⁄Úqé#"qbæ2’{=»8òì„ü∏Û–ïdP¯)R3œ,¸ÛŸ€VÍ∂∆Ú
+[=@?•kÔT4ÓI?#¶∆#Q∑$±ÜÃ]≥ €émÎΩÑÿ%g‡ìÓ≥s3òé3hÀ	^K)Y9Ë±˙Voh_Ï‹I +:‚}DåÇ¨Â≤/ €§˚ÅFE*]É´º@$ﬂ*ÖëD´ƒÃ‹o1’¯∂Jr˛’Ü˛´ºV$úÖ5∞¥∆=1⁄W±vÙ∫ÿS/‘5»⁄Óó2à‹±^ﬁ7è=/qlÁ#ï|˚€Zn‰8º®(ìà «[}SRl⁄≥Ï˜ÏåÇ&wz{Ö¢.C,ü#øã§∏Ûëd≠c¿ÎBÅê»„≠€v	ˆq≈RÃ…wUØ	[£ÓfR…û‹ƒÌ[Ão=	¥b&3ìL\≥««ûUºÙ∆π’}òúvoLQ™‹Ái˙áQâ}‹ù>V&–SÀu"dCÛ/ı¶vÈ•[AZ>ïú⁄€18B–∏=9QÜ¢ıK›√ds˘;y@n#º∂:Ê2ÿ*rêSh,â:+ﬁ®˘ëﬂÏ„è(€«C≈ºì≤ŒZπà$å˛ïî˝H’Xå¨ﬂ a≤8¸vß”ác·òòvOx◊v,!äé◊Ω_}†√&r„;qÛ‘CQ‚´ª;w†ïiUæúz@úˆ*Óº;ˆQÅ∑m2m2[ÏÔhdÎn£6•r']™f˛DIe ◊qΩY‹Ì$€©(z˛Ù{ümoFÙ=E
+Oﬁb◊ımµ[Ó_RŸ¶g&ã˝µZÏﬁ∏∂Y:Ô“lÄò^ﬁWtÖ(-G9 P-ôrÈ‚I·RœI‰˝÷ßÄf°–πù-£4ΩóR…kÊo¨”__{8‹éOπcíúgÕ °ÇN¿2P]Z7D˛)Rè†ÙM4´;ƒ&ZV%üÜ2é√≠<¥æä–öØßöfÂ<f±VR∆fñ7R .’µÄÕÿ…]euB‡2±h√Âr3˛ÿ=ˇ j ¬µ°k˝Íû‚ÊıK:†ÛTéÙvﬁµ•g+S;ì¨ÏúE4È,≠¥©éulÛ±µNéKµårjÇö"kaÛLDœÇÖ◊jòñ«⁄ùo⁄ZÜÚPÎÃ√kÏÆ[ˇ πF\≤∏´n¡‰4>z£¨êZVä9(‰µÿp‰wÒ«aò"ÎÕÜZkF3ù8Ú˜«	Ú˛‘Æ≈˙Ö´0ôÈ›H÷Âˇ åg„1WP‰ÚÄ˛ l◊!ﬁ	S¿Ãê~Ô„† ∂s)⁄°hNTÎ≠{MéE\≠LƒPœ[√iÜ∏-[UKV«ÇÎsb¯4…≤GÄíòÒøSk
+[+H÷©·Ag	 u¨y®0àØ©*bÏÂhﬂ∫Ïnç∑∑v≈\µõ]ï>»Ïì<~OíÀyQ#2<f6´‡,®œó:“&wPØùi∑¶6ZÛDÈD◊oq8º{sÏƒ≤¬Qé≈¡ÊÎ„.º‰‰ÿ/u€oüÿ_∂Z÷⁄2&O¨U"pÊy
+õØ˝;∑à—5ﬁºù‹~¥™¡ˆÃ€õÉj6™saBoÆ_È/€ú»≠±„åuP-	ZµßÌ∆ºW √kj~ùUÇ∑V˝j7k^«P∏ÜHT´x`/b/[GÏ]ã˜!¥ãxîó(€©ÿ›àüù/rÅø4†<^^ñNbp^†~bõÌdUë W™¡NAinökΩÉ$ÇÖoHœÛ©
+∏&;◊E∫îJë˝©ªÈû¨√V»i∑Í„}¥sy<Ω¬Ï·ÍÒﬁ æS"\$b%00®‡≥Ç(!Í≈+@RRµ Sı™◊-îÈ¨˝Iœ„Ûπf•ëQòΩC6±M∞˙»7J”ê¨Nâ‡⁄∂∆ †K˚LœˆíÔhlˆXP3†÷y˛E∂∑«)ŸgYÊCÙë¡|¶?øÛ’2ÔÜ#¬>ï®N f<ØôÆ¥Ê+ª§ÏUvw9pI&≈oz5}Ú	oEÕπE∏I¥çLXì‘«ë Ô÷‹p&BT4ÉáHÈ˜¨j)¬=Íã+â≈d1UÁ‹uÙÆ≤q⁄~ı[ëdïvÕ"ßí[·v‘´ªﬁ¯ål»âòuïa2ï &t=‰Pû9Âí∫T}+ç~Kª'èÕ?VÊ¥≈Îö^ÌÎ¨•îQ´'ÄD⁄àÔ≤ÍwáÔÒ>∆$¬$ÅtÊ'R•$!
+·=Wﬂ/÷¶µ@
+}áıG˙çπøƒÈ|a'Ö•b≤Y.0ˆkN=5Ã6Eë95…˜8D@«◊Ul‘¥g\årËk°E'®<˘
+Xc=#¬ÊÇ∆gënßú],∆°Ã5ÜcqJâQ”|9›…º1$Ÿ‹N¿F$$£R}†~›†íàFëÁ˘æU†Ÿw{ñﬁ¬úY$ËO8Ú¢=é‘⁄≥ñ—:ãK—Ωr®’fO/\ }çz°3TmäeïÚ›P4∞∂ˇ æB:sl]4mÙ™:éµkxRåƒ$Ù9SÈM.Øö®¨F1Y=6XMWB‘~M[˜Y4r6jê)O«T_z,mœú~›ßóYªΩÆ¥V`ê§·8J@Â9Œzı™E<€àXÜ’üóï&q≈à”π}YÄ»eAñ4Ä˛J„›LÌ\À◊ªm`á›…µít˙ì∏á¯¸ßßÏ÷Ú√o†IQÖNQ‰>ÙOgˆ≥ñó¨Ø ®ûQﬂπß&gc”KO±Rì.~Oém¨ãl\jÈª!i5Ô(é±˚e0Æà ö„∂E3#ƒ zD‹{ŸÕXeD'¨t©Ì◊≈≈⁄“⁄@LÍ?z™π≠≠Ë óAè∆÷«ÈÀèÕPØ`Ø ¢Ê[î@≈çÏúP+¯˛¬€i•nﬂΩ)*'î	ÌUñéÑ=ÖDÁ#/Êtæª8º≠¸éRÂZ∞_ë^*Ñèc
+•⁄q^äËíˆœÄ˝”Céˇ .¶Ñ≠*Cóz%⁄0‡@V<9‚¯|º≈U‹ƒ‡©ÿÃ·)fqòÍÃœ‡5	∫ùú≈W¸älcdÖbjw¨˜˝‹wü	‹!†[*ÃâI¨k5*~Tæ_J!ç=oPñ/Pû#¨1…\ÁÎ·Á"‹M‘¢‘KÊ≠ok Ø—¬¡†Œlàù£y€≠ûÃm§!1¨gyØ◊[€7b ·8G!FcCœ“õZ'_mtÒ¡å»„póÍ5Öâ™7ìváºiúôçŒtÏme®Tn<Ñ&z±ΩS…µqm∏a¸]G•1∂6ÉV‚√ç„⁄uà°øR1~©ﬂøì”˜Ω#‘æ°h{tq÷pôk5≠j:Ù ë˜f≈Uó»≠3â	1D≠£aâè&”…q≤U(v'BúªFæ¥’æ‹Ÿ)áV,‡I‰°®éTeßmj<>ëUVß¿8sl±{®ÎàPKTwø+©∑,¸Ä0∏üS^m5∂ï€ÖÍçO"t÷ÅÌ£˜O2÷Ë§7‚ù$¿É‘WÆá≈•Ω›Má…‰,‰röé‹Á—ô≥Z…ZMkVõ‘Y	¶æ;V$ƒ.cıyÍÂ(Eµõfq"rà˝Ê≠mÓ⁄?‘nRò
+'äGm5•VæıZû/)™pó±x|‚h◊´Kö•f≠‘Ω≥dº=‘πº·a˙%V?÷lÃl[ƒ¨Éoµ#gIHÎL˚Â£ç°‚(ı>îõn≠:˘9Nª’wWr˘``9ZÀm0_«ï∫ÈêOm30Ie)Txûlﬁa∆€ZÚi&:∆æTfÆÉ#çƒ°\ír®⁄Œ«®Iî‚rÿK:ïUÆäs£À/^≈•¨gëò—Ø±ïüÃ"¬‡∑ˇ txÈk}€N%•u1îK≠™‚€¬Êc†9üÌG:'~ô‰_ÜÙ£YÏé,hÿ˛°r™ qí2∞[ìj∂1∑úqÅ„ÚﬁW*DøR≥È˚PmólD‡˙~µQ≠˝rıkL‘:‘Ù.ñßJÕ2å€˙¿^Ÿ2®^51›ìSwàV‹chﬂ«M±mnË%E“€óœùVm´r‘ÜÌRG\@zƒW¶N≠[ö#O„4˝˘R¸~>ﬁ±‘∫kŸ{Â5U¶≈Î.fÎ#2±%˙b¿˝€Ìˆâ∂ã¢¨<§H˚’°π≤F`*8äbg≠g∫uÈ'Íú∂•÷òºÚˇ +ßFŒ•»U∂•&{E˝≥"ãÖÂ»§B9◊9Í˜Ò|™R #»Á=Î(.e≈º‚”9PGòTúKJ`Æ≤ÎÍÎG;t„*bc,Õ´.]›Uî9v Y
+‚1Ê&?ÍYo=˙{é.ﬁuœÎ≤T¨KPÈ”Ω~F*ñ*ŒS‘mTÎ⁄â9úìª;~Â÷ŸhŸ'ˇ éI:[j7û]¥»◊ˇ ´îujã5n+Ñ~aó⁄≤ÌÉÔ¿·)π˙—zΩQ¶›)jïœ√ØrìÈ¶Ö•ú∆ãDîƒR§Ë9Æﬁ01˚F6„](ΩñïSÎVèÌﬂg	ê)Ù.&˛î¬˜±◊Ûu4ﬁVÕñQM˚‹æ˘óÓTTGlHCÇ¶vÇ⁄J|œVç…Ò>UûjÈÀv‘“T¢É÷®5%ñjkÙ0[e¶ÕF’≥}xæ,-» Ì⁄¯I@∂vÚQ{u7Z	>îyº·âöΩ“>õ¶µ\µ{¨›KTa)-c®lTœÎ
+≥˙ Q€ˇ ™·1∑H™‰·ÉÛ"∏›É)TÉ•+rrŸº›fó¿ñï≈'. ◊˜˘Cg-˚ñ≤›ﬂ/®âÄü†èæú∂µJ  âÁÀÂT[SkÄΩ¬Q¬<S¨S7:¢«Õ:Y&:ÃÀŒŸfˆ3Ééñ$3$3H˝ˇ >z®u
+≈"≤Àiµπ @°¬π=úÕ©lFD/*	n€‹2±Ê‘xè_€Í:VRr¶n-≥LV»—~£‡±Z{Ven6¿µ<D˚Õò‚ä,7∂{6+¡ÓQÛ’ n˚x
+BÛfÚQ÷πjm)ßu}0ÀuÉJ‘’∫fÌ\q[ÁYoS2
+5^
+˝•√$;l‰ % #î¯òŒ¨ñ…Bs¨u⁄\J A√ûUüÛzV„%ZÖKY,ÄµS@læ¸±¶"Hôa	©´ y€ˇ ‹~Òá\®…πmI
+'1ZÛ”≠3[Èv'!©››F'$¨ÕrW±Z›∫ sb’™¬UxÇéq¸óÓõ8c¯NïW¥[õÅ÷≤Á©ÊYÒ»ÎoÎ8~g%Ó5¶´‘dY™∞I3!ÓLc€9JAl¬-‡cæí∑∆TïπAı˘Vû≈E°ª-‰y“«“¸Êû£ç:8ß·ü´0óÙˆCŸ-Wi”¸•bXÂ*”≤Ï€'¡åœ≈û
+#´Ω•Å∆Ç¬¥Œ};ÿ‘•ã≥ΩnBÑ$Ùö6ˇ ⁄CVjÍﬂN2Ø∑¶Òﬁòd‘Í¥0º’K∞Ÿ≈’CMdÿπÌªü‚»Áî›#vÍ\Kn7ô:ë¶UîˆŒ¡õE©N$Ô	È»÷ÿ=úƒ^πrŒB≠ö„≠g_Lúëa©BJÌÏ~EhR3ÌŒ^PÓ ﬂéÂ»g•ÓXLåæ≥Á_(S¨ìñU;Rñó‘ºM≠^€ˆòª	”îÌÆ÷7!O+ètYØ_9iæßcÿ=»˝YÚﬁ6ÓOQr›Nî*b:dOŒ§√ÎklÃÛ¨ı©4=_Q5ŒW/â‘_á´åmEw#ï∆5K€≤,»P®JÄUnπ±\Ñú3 Er¥™RÇ>ÀŒ0Ÿﬁ'*aË^mVô©s4ˆ¢±ï∏©√ºÜc Ò«`k‚≠»qö©e6â¬ñG
+ïÓe˙í=&IaÄ;“n∏ïd˚U∆Ñ“:s#Øø¨UÇ≈Ê^9ﬂ≈æxÕµ§•À…ùiÅKäπ •
+Øo%3 vÅ»‚Oj9qÕ÷˙—’MuÅßùŒÿª[;:íçßcVÉÂWêEï™˝ıöªâ59'˛Ë8˛|Vﬁíd´“êK5§¬µÖ˝c©r∏¸õ´;9t—ÀïıµuíãˆF’^FâQ)gm3¶|ã†.‡‚”*≥Éwäa_Z≥®™ˇ VbØÈ∫GêÀ7/R…28˚ä‘Î/t®ﬂÙ>F%∆ffzY‚≤a#3V)l°•ùG˜™ˇ Q=3◊wÇˇ ®WXW*dj3é§ÀTh"ä≥J«·}Õ9˘Ÿ8ëìö·»„£≤‚ä$¿Ì]n·ØÚ‚2‰y˘‘>§]“˙F™Ì„™aˇ ¨g!N‹„Í&¥TÖ÷w’ã&*%Ã¡b,Â„i⁄e.aı÷Åo≤“Ò«˘N\˛¥êr±˜(bV¥>2Ó	∏òz)c
+)÷òØ}ï9§€Ó}o3<<t2“Jâ'*–⁄∞∂‘tÈBåÍ;)˝JÔ“÷ØJô®˛?Ωf¿‰B_q%ÊcÔ™≈lÙŒïd^WÂ≠Â≠p°X≤∂u	‰hT«g[VZy*˛Âvm"Ω≥ëöƒun« 8òﬁ—;óX´gB¡=kÁ»m(Ù“™t⁄◊Ü∆ß'Ì(,ÜC1[m ‚≥åÀ75®∞;6*Ä)Õÿ«oè.s◊où!xRºÙ3¬Gˆ©c”ÍÏe{÷Ò˘Ïv/ÿÏ…âäŸjj:é\q˛ÔºçVDÕNÏÔ0”‹ø‘¶|ı;Lik“u
+ô»k≤Ä+ ÈYÒŸ¨ß~ûµTÙﬁW∏‘4@ñhêg>ÓåAo∏Ôı∞Òé¨ê„kkÕ=*;p§H”•>4~sL\ÃéN≠åÀ"æ¡ô•iLÆ¨vYòˆè‰VK@±”'˚ï˙ê˘ô.ëZñTaQG*3i¿ D+Aﬁç˝5rt–ˇ ÚõsEó¢Œ≥‘˙é∆AŒ±f°›JtÍ*^5-^‹l÷\W#<H£ît]°p^≥[Ö<“àÀ≈Ã}+LÛ≈˚U.êå∫gÂ^5>E¯
+¡•sôºvS˚Sä±™±Øˆq^√\WÍ)†A2Ωñ0§<>[INﬁ:ŒZ4õáç”.ıêyg¬üù%k˛+Pk
+≠√Ê0Ã∆j˙’ÃuKÑejÊÙÌ∂æêTÚèrl‡Q∂ÂøZfÛm-8!übì¨WÀ"	)Œ¥SQYÕ0⁄™n·/Ÿ«[≈fﬂÜJÓNL⁄¥‹¨¨CL…dí®µ´ò¯‰Ÿ‚%#=S≠¨‰dïdRRØ8´‘Û*Qg¥≠å~¢®åå‰h∞¿é´±JÄWfsêe¸ä≤¥]©¨ëôû3=√âûﬂ #{Õüv⁄€q41¡Û´^8
+	ÀOZÖÅ∆jæ≠]ÙπjØl/Ÿb}Kø~±±ñ∞LK™≈V±.F∞5‡”ﬁ ñ;˘âéÜCj∑r·g¸“ú±±4‚ú8p≠‡˝:µõ^¥•u∂¨Âqç©ßq«ïFj¶>åü‚oT∑&!h≤1=òP∆–ûS‡„¨˚€EiJπ)ÊæaUBÀâ(◊èØJ§‘vÚ◊INî—–ÃSü™ÚZÖï™Ã·¬tÆí´ÇßTôø∑]`áôrd¿˛ÈÍ˚`£rÁº∫ø√¡ò™W€≠}ßÿ=Æ˙ßTËÜ”ÑwRœÍbô#Nª”¸{p_ù»‰¥À2¥md[bZ€6sN™.uÀwôΩU⁄8.ÿÏ#¥|∑û’øCÍ
+Çï…	†uOÊ¶6ˇ ¥Ô=Öy•‰‚D˛q<˙MZó›˝V+NrÚ≤A8}f≈üj®»-Î*©F¸a1‹á!ë1<˛>vÍ∫€nm›J¬é-:ÇëÀ ≥v˛‹-(!ƒuëŒï∫◊Yj}sÎ?®OªínkÈÈ÷”5mU¥t[:Ü–C·P¯Yî,e\„~ﬂàÇûú⁄
+ãr˙ÂÁ]Àú#∞Ë*©€ﬂwŸM:ºúue@ÅDÖtËeﬁ£ì´[wL‡Ô„s@jΩá…‰j⁄næe≠ã»†JÖ&«)X$››9Ç6Ì3∑Wv)wjJ%a¥®˝ÎË[<ﬂm¢ç˙ã$¿ëöπôÔC!Î]¨≈£¬·}1Ù±òç=lÏ£∆∂&»(F L˜wv€x˝€óâûÆÓ6+x∫¥Øú+2:v≠ÿ^NÊÂ˘◊à˘r†ı‡=◊•ëÍÔ¶5lÂUGˇ ’:JıÍ l∂eaWcí°æ›∏o÷¸vË^ÌslﬁkïÙ™ı¶Ô=õπ∏p+}æZ Ëˇ ˙Ö:≠bΩ:]|u,V£ÀﬁM	ˆÈØíõx¬MpWm$7høvú∆`ß¯È=Ó—ﬁ·HÓ3'Ã[}în÷"·î¢E
+ôÙ:RÎSÈm<=∫ZoP‰ÔÿÀ≠dY{P‰€N·Ì
+bÆ¬$¨.L#àÇ ˇ Ø”â∏πäüD˛⁄U™«		y“jüß∫û∏QŒØ¶≈'Öª8Í≥íFU©âò…do[k€Í<Dm%Ùu_„8UèÁ#–™£cÉ0ÄA◊YıìE¥ñ7C∫Í%X:÷ÒÏú”¶ı&î≤H”S êÓ£üi}ÔœNqÇ°¨˙L%≤jÚ•ûS”¡‘°¯ú}j⁄}8‚ìck^›’©|Âe∆cyﬁG„„}¢g¶≠⁄y'àéµE¥˜*‡L¢N¢îô%á”yt’Ku‹Á™¨-/‹™™YqüöG3¿Nv.ﬂÀ´v›u\RòÈ÷g‹ÿipuGœ*±ªk^^Ed◊¢Î4∆!1ì˜–;-òîÓ¥DLDŒﬁ~˙Ûó*_
+§
+()DÓ€ƒz’IÈ|√2‘"Áxoﬂsk\»0ÊÏOô5W‡∑È¯Ç"éªeJ©NgŒ¥MAßËÈ€ U¢ü„°x‹•+D´gxÑ™∏ƒnE‹)àÄˇ ºœ‘Ùl@¢&44ß ·8ﬂøïrÒìÑ∑s1‘$‘6À6Üü{ósÄ˝Ã¯âç‚>∫YŸª–∑\åPÊ™≈ÎºnW{IŒ≠∑éƒc;8ú“XÀV1§/Ó5ck˜öº	Bô$">b'nÄ´‰#÷èt√ÕêR
+ÅË&ôı©gıèˇ l®UÀ≈∫Ü£Œ->Œ¬,@äÕÆ†>.ﬁhÌ{Ô“∑W-€§úè) ´mˆ.“⁄Æ+Ä!‚9W^äj¥‹D‡É7ûÃd%}ñeÍ^*Ø¿òπ.Ê˚á˛œ¡Oü„§›[µÅ“$öº{¸>;∞§8tÀ(5H~ôkL;!{K=¯,¥Æ©d≥Ï„©«xwñe)ãF∫Cƒ˘F‰ø˘éÜnÌTcv“®◊ÏΩÚ!≤àÔE¯Ω?ûıÉXÍk55ñ{O„K/M_å√JsÏqò¨;)(œq,∑˝Á˚∑È§ﬁ˚∫@m±˜}j∑olÜ∂mæ˝Á1	åßÈZ5Èˆ}æöhù7™(ßQjm<ÎW;ñÃ«˘äJÔå„ÂÎÂa]ä¡'V7⁄fÓ#§Æ›R‹ﬁƒÚWÃ/Ôv:ñ•1èΩ—ñ°ó=Ω ›AoT‰å”˙K"aÒÃ,®◊M§[Ró˛®®ñ^‚`d“[ú	Dtï”)Lœ•fÌ˜Ö≈GÜ>t∑◊YÃEzà≥óPA›ƒ]ÆÓ)ÜÂHÕÿ∑é—‹?h´<|ŒﬁgÁ◊\ªV ÇzπŸˆ
+qaÕkÍ˝[[sWiålı/zÌdÈæK™4V5´‹Q~ô55ˇ HLdm„xﬂßÌ,…ÖØ√ﬂ*˙&Õ≥µp(ø:pér#µT˙AÍc“´9j˜(!y›9∆{€∏ŒÓW£_Çh`÷<¶~¶Ì’•ÀvØ†úàÏr≠^ƒ76Øç‰y(~Ùı—⁄ÎUﬁıJ÷∏◊Ñ·qÄFäÃﬂt"¬Ã}VFõ+§1-±ıÀ ;ÑÃâF—øI!6Ó#rÿÔ“•ÌŒ…∫øaNnì9sßÖVı^ú’≈[!T$ÏﬂqZÖ≤	å≠(n1?`ô%1#à„∑Uãt€™UÛ=≠Ï2öd9á8≤ π„ΩYN†£K´Ò#©¡YY[»à‘u∫ëŒ∫ÔUÈ DAˆwÚ»·3∆#†*È≥N}+8ˆƒP<9Tlg´É[)ïb*≈úm8øÖ©AÀõ(ÃCí≤µSpˇ 2
+X≥Œ¬0‘eÅ#ïtle`ù{´;è‘«•ﬂ\§´a,ÿùEéM¡Z¯¿1™ˇ ˆvÌoí8dÃ˘€®≤1ëÈQ˛û§+µ+HzåÑ]´A˘\ó‡Û0\}¨5nÌä7±ÙXß˚âëï&µ¡óDD∆Ò+Çèﬂ–÷ï6ùRÁEv…A @ö®÷~∞júNµÀ◊ØîÆÕ)[´˘<ìÅ"^Œ‹Óß@q96Û^¸ßÍ<ƒÙ·p))IO:N◊e †ïÈïœ‰¥u≠u]ùƒ–±ì°ó!≥1^ÀB¢"÷9`¶Hóô`Ü”1#œBJÅ·◊ñUßµŸh(Cã»'.∆û:;	¶Óøûª™1ˆ5^tñÌ_Ñ’U;ï,‰2UÇÚﬂYµyBWPw˘#¯üô„—≠≠›mºe2'/*Õﬁ_9*Jáêjoè®˙∂Œ[5OZ‰p¢%V µD›NUÌcÀ.ö”ná	Å!/éÛ\;póSÖ)ÉTM€>±(IÉYg¸DÍç´5Ù.5®=HuñjM{úéDìä,4:›∫#ør¡VXëΩ%∑·Á~îi¥x›\r i[mï≥_µ@˜Ö·I–V`^w™Y3sÓ	~NÍf•ÿFÛ∆˜ëìÔÊOê˛ze Uiﬁ¿îàÈLüyÈ°|ó[Z›Y|Ç·ÂÌÅ<gÈ“Wìèñ√‚?èV ú‘ä_|æï∞ïñv~æ‹ìO´*‰qx¬ømU≈VÒ◊a¥ÂNLO TôõqOﬂ_6~—Ak¿ìçg\´Êä<Q®˝jÁXÊ©iìFAD˚¯|F#['£’^’“5.DQnç•rUû¡rï≤'yÅ'ij_RÒa%g#Ã„Z´*TNUúÛYùGS'≠1˘MYö‘6ruË‰∞ˆA#3èR ’fJx≈™›…W)ô ˝Ωi¨—¯m•  ìÔGGeZ/ÕÍ
+∫á•r<1˜êº≈\:n9‹iúÖ%~Sq’∆1M{J‹ëôÉ)âﬁ®õ4{—HDÁe¶Tt≥I?∏¶ñçÕP©¢3D^ÀÂ∞Ék8¸»¨V≈
+Lsh˚ÁàÀOΩ5ÿ[Ã»ô¿x™⁄Èx21ÍG1–ÂCy`%2"{r£¨~©”à»ÂÆﬂÆU3)Üê≥ñj≈â¸f".UìÜk°ï¨àÌº¬Kqû≥´∂x¥ 2rpéÚA>zQ7‡ ¶rVΩÈqÍB5&*ﬁ7Ω§1¨”∂∞Bä"ádØ √ø?ã»ƒπU˙É<x∆<ıi≥m@á¨c‰<≈V¬F≤:VU«ÂÎ`ΩI∆dáÏ1kX∫∏D	‰2#g⁄7≤MPƒ2ÃI«&8?nﬁ>∫ÿ≤»qí	ì◊A˝™…º[æ¶µÊá;‡Á≠©ëç\êrïá=+ïÃm⁄i6ÓmP∏í]É!€nlEeoÑb∆Äú&5ú]ï‰ 	:»”÷¢Œs5†sTı~•≠Ç‘≤ˆ∑W=[å"Ö◊ÿA@Í
+Ö»üU1pm<†„iòËH
+∆ xÆπÖyQ≠oá q|©Ö´rïÒóõ©±πÅØèæÎE_R‚f≥%π™‡‘>’À˛˙ñÃ…¨#Ÿ.´m§ø∏”ãCß~’ÁùVÛ%(ioêπ ±™2ôLﬁ/P“XY˛£∆Ãßh†y&Tuk_$ÑÄ¯˚Ä9òç∑ËÓ~••0W·9˘◊n-/©(£ùÈçhåâ¬Èõ:Dry[xX«cóhïr©Œmßíµm˜<ç°ÇïÔ∑#Óñ¸:e÷ªÖ¨)ÅñcA©Î+‡¬ƒí… ÛOáÂL™™ˆçπL>\-b∞¯Êa0ZS2ı„qÈ∆Å±ı"ƒw,{Ú5,âÉƒ¬yÓ=S‹]‚m…N%(Ò(ÎFwiÔã*QZ‘qO1ˆ§Ê†’XÂ´≠…ÊﬂiörÂLCÒ∏ -WöÇπÌTæSK¥·Ìâ(Ücb)/®ÍŒ¡áPñ‹J|Zr°ÿ~©c]$¿¨““ëç“∫qòú‹Q∑zÊ±6÷us- Iæﬁ5º»-@§é]œªÒﬁ&'≠Œÿ+Ω^˙È9D&5j€{1Ïìõi[˚•adhüÕ“;R›téÕ6•≥ßÚ”»;4äXÖÿW∂:Ó5k®;á3€€nd…í€œ‹ıÙ0‚[a§+ fæŸe±ûD%≈$¥îÂ 3:œI!ñp∫ª7kfÒ◊ƒ„OL#QbúªÓîÜù9U °ƒ¯w>^bw⁄c¢∏KgŒRø˚®è©v»∆√›8á”:$∑g_Í·”yàÀÈ›E¶d´öIa[èzLKg∞.›.Ÿîv˘<„hâ„’Z\µm“Ç—G|XæupS|˚(uó¿F`&?:5∆`µã(µß∞ïï}fñú‚óÊ‹πçëâa¯¯•èø;Ùõo$!KEYŸ?vñÄpô‰'÷º–ªúøêøp4V:ûô†V´£*ª–èy«p]Æ˚8‘™≠¢J7i2bc∆˝	´tê0„*Ê#!]siA)pGyœÂISÎPwi—“)yc)◊(
+π'¶nã$ ‹:`X‰Ô$Rç¶g„´4ÿ¢d’[ﬁ–))Ö±Ω0Ws˝?zÓ°Õ√i\º5ö¨Kò,ŸqŒT|G∂"^a˜’£vÑ$"≥ÆmwT}©óIµN∑µE5O‰W˝⁄ì\Rù¯πÇ›ÂqDÔ<∫qR/-`ÒR~î+‘,¶f≈˙uóá;S_Kd"ªsV≥ {µæÑ9;ıæ;O :aÊÄFF®mÆSvÚìóoùi|F3r…∆[Pk3¨cZÌ»"-VxóÈE¡ÿ@è $ `¶>[œI‹∏"]0+Caf¥q}®õ=à÷óÚcgK7OP∆:∞”˛òªXåˇ ‘Ó1°u19ôçˆ„¸DÌ’jv•´Fú∫Û˘Uïﬁ≈Ω9¥§©]˚“∑ß-?7®Ÿ¨j–X;äπg1f’?ƒQm©9Æ†ÌHÃ›ü·E»£«è=8Ì˙¸9Úå¸Í∫œa∫µ+}¿Æ≤0äa‚≤:®Òb∆fg/y√O ª4l⁄t!â&Ôr{BÑ¨àÑ9è∆'œ÷˝$Ûè©îw5~∆Õ¥∂u-≠ÃN´,15∞ûû]LCF⁄^n54Çï€
+‡∏W1ﬁT{DÃŒ”¥∆›e.vÅyXO*÷ZÏ˚fD¿°›KÈ^°øòNkë«‚ÚtÚÅ@T À∫Ez·‹˜.qóÇïÃÛº¯éΩmtY·√â=$»Æ<∆√®ı™Ã∆$8ˆp≥8}ó“xŒO}™»ÊÚ∏·í^ü)≤~⁄ﬂrS;	>%?ﬂ¶€`∫†å@Î÷?z]«ﬂiø˝:Uå¸?x÷+Ø¶ôøR5ûåû3D‰05]zù⁄N≠ófú´i”á\Æ…ha	/∂Èü„¶.gheÚ∞ya∆i&™¨oÔØúNˆœ )SùÎmzãpZ∏∞∫_!îœ˛≠Ã◊UÔ÷,yWÆ€ÀHœâH¡ÑDëUL‹••Nì…:J˘ø¯≥≤nRÑ8”Gs·W2'ú}ÈxèXÙ·XÃé#)´\wﬂå¢ç>µ&÷&≤@Æ≥ÜEcbBZπÂŒf6ˇ é≠]x9¬≥≠~¥ˆmoÇA»W©zô^’*ö©ùﬂ¡·˚V—ç_qØA’\UêQnÃõ6Ÿ⁄DÅrdl1ı=®äb∫vYS©`|ÈÍ¶†…˙j¨ùn[™pÿÃUùcä‘m¬ΩCz∞˚œu›µYVÇ3¬?ç÷s”,[°˜%Ÿ√ÀΩ}d˚<≤∆$ë≤÷B‚0ÃΩó÷:ªÇœ∏!ãª≤∏9g∏§Ó	”AÅ≠\eê<†J~;Ô‚-◊xÎŸ2ﬁ$|<ºÎ{≤˝òn‹bπq+T‚&}2≠âÙ7”=qåµg´5O™~¶_√ÿ’wK÷πg&Ë@AZ©sÙ∆6◊â@˛›˛∫°shm&û2î2»:)Û ∂ó[`ãOx∏πSè»ísì†√˚‘ØEtM©µÑâ“∫âõÎ⁄¢≤34ON∞ê≠¯µÅ*∑xRkÔ7câ/:”⁄RNzÇüPuÙ´Ogv5∫õÇ€ä*¯óÀ!ZJø¶˛ë“;µñŒ9Õ≥d≠ÿ≥â_µ$“±&JÔIo0¿ôÌ¯˙é®ç≈À±çG◊ó•kùˆ~—-®,bëß*£ΩË¢∏MO™ß+á≥ßj3%ßnÿ 4ów
+‘ÿdRΩm¸Nø	Æ˝íS˜‘ãïå~Y}+„Sÿ€ã˜rú*N(_‘$Ú¨Æ◊c¥Êaªê2)∆‹SÍ∫¨ùÒâYlbG5‰áúÅN¬S∑–Œ˝Z¢…Ú3NX;ﬂg›µH.¯O0f¢‹ÀTj+È≈“•ùz•|î!nÂü÷si≠~›)ï ßÂÚÁ¸Ù“mñú∆µüg&qïIƒk,>óøßösXz˜®ÍlZ¨8}X>Ó7!BıÅpsó €1$vÍ?”‘ÍUâY˘LzWl¨ÎáÄ|Î€U˙æ€⁄èú¿bqVhXØc·ÆV1ŸLé4F;ÏEÒ›Îû#Œf ‰ãÍcØ#d∂ñ˜d„ÁïZ©Ñxö` öÀÍk0ÌvåñkbÂà≥{+ûB3µ±oo˘\ÅdUf=…◊‚Ÿ·*Ú±ëòﬂèN[2∞àûÉØJ•ø∏πtîªyïhL%Õ;ËÓ Ùﬁ
+pô|é[
+›`ä˙
+¬≠Xª]KZ1Æ\≈•Æå/∫Ω˛€ë∆„=wvT¨î« r˝´¶]Ω!Jé‚≥¶kQgµE‘j\ú√˚çà≥åZ¿^‰òõ=Ât∫cn◊1˘.?œKﬁ-QÖ
+˙ƒ±e .5≈∆·?ÆqL±I˘+O™åçw≤“:ì)êo¿yDmÚ·’Æ»d·¡ÎùJ‚·∑ñB˛”84ÍÇÀf≤⁄„Ç…W°m¥¥·—7X»Õj>Â"±Ç]e ˆï……oø∆w€´gﬁR!\…9ÔV[3d{€úK¬ê$&5≠?çˇ :∆˛:Ö‘öØi"ÿ‚€Fy”á(YOˇ _îÔ¬~ıı]eóµY
+?Ñœˆ≠Hˆ)
+∑ÑOm)•¢u~éÃeÍ◊Ω•◊tsüîŒds≠Y*«ªôeñb±†d,t´Ù…ÃÖ<xû>r◊ÀMπZ)	àœ3ÊkÛäÀ%iG˘ÏEå¢lÁ"ˇ „¥√êXîgpÊm>œˇ Eˇ √'≥ `⁄.–í∏Ló?¥lRî/ã∆sÎı†-GJÜtõ¬iÏ>•‘ïÙuZv__R≈⁄”j≠ÌÏ≤j®ÏÕÏtﬁ™Øo√∑ÛK[sÊ#}∫∫Vı-©B$f2˙UÉl6·É8πWæÓ#!£qxÏ.mˆ2’ÆdÒ˙`Åßz⁄2 ö≠õid7©©«x8t˙èæ§.úi‰-ƒF!úGß:hÖ)û‚¥Œêƒf§¥∞·*∆xÃmÃe\$[FG5πd⁄Ls'±b ñ–0Á# baìzÀﬂ`KÍxú@Â:yeIﬂ∂⁄VïLı£Mì«Í&¢±∏⁄xõ«}ZxR/éuÉ °∏.]Ê∏;Äeœ˙∑ç˙´]ÆÇ	‚âÎÚ†Ç
+A“óÅß≤∏ºÆ§¡dÒ˝¨|ç\‘~∑jºw∏ƒW„^Fª_å¿n"Q’ä.ìªûf3gü•.˙Å'èi"eEi‹Næ÷Ÿ,&ò{¥é£CéÜ(áY¥µ‹£,`ﬁ9±⁄ÈÛY{rÓÏ]πç˙÷„]≠Æ˚∆Åô,æ˛¥√Cäfµû{(≠'ÑN;Re1cãl'•±4qG&T±¬5≤+ªdfbfÌêÂﬂ}Ÿ1÷ßﬁﬂ6É«ûj¯Nê;t®]ªä"ìZÛ+´M¥TßCRW-P§be‚ó\≥Ó;er∑2à-ä#uúF–0C„ßÏ"x	îÂùiXå¥™ØMØ∆råh˚˘Ã°›∫Wõ[›Q£i!S€Z¬Y>Yg∑0P[,Eë3ı”;AíQº@OûsMã}·íj˜)S.›Iç”4ØR´éfÑ»µˆ≥≥j·+ù∂6À°"[\àÌèn#ÎÔ§ÌRÖ4WÈÿÂFl)sèÒ˛ûÍ\h÷‘[ù«"¶?ßQãΩzí‚•d{{º˚2ßÅªcò ñ<∂â˙5ÕÎz©*<Ú?•@⁄ñ¸_:%¡‰±’.⁄f1◊ìç=RΩ[∑lrÙ:ços∂≈Z“¡˘ÚÌá÷˚ıMpÖb¬ù'ÁJ'∆s°Ω)å”∫œ?`}5ßíf?I™ûnÊW. Ùß7¯ÆÌ£Ô!c'ˇ â∏$Ìõ~| #˚6¥:√	(JîBR>	ÔŒ9UÛVK¿Ÿ0Bè–V=÷ÿ{yL>±ı#Ï4˛.Ü£´RÓ3¥ò´,µûÏ◊´T˘„Àm‰@|y)ÎÈ÷Wå3Ó÷âN2SéπgôØ≠ÏªƒlˆY∑í∑<	ééÁˆ¢Õ%ÈÊßè»≥<¸/≤OÂfûêjMõMbS‰<˛ö˜ü˘ù˙z˝÷Ì¿D™:Á“∂ñªg	áïCùUÍøPqZçÜ[÷g,=B≤¥wñæ·ˇ ®≈(bGxà¯«èÁ£˚ã™X[áàiÃEZ?µeΩŸìäòòMUïΩ§1§dù®3∑ÍÇBl¨¡1NùH†î"9»äÁrÚ[îÃıÀÀGTD∆Xr˝jœfm&-òîÕ ≥˘›]Ö÷∏Ã≥2q¸a2ÛÿQc"
+¥»ÏìÕê∞q*'ÙÉåØî˝t˝´Pò)>±ˆ¨Ó”⁄◊%¯zÅ©}D∑î·ìÀFcWórBªıÛÖ˘ôÑcêBÑˇ ƒo∑¸t` «≈†UŒm.Çø]ı”ç'€«∑fŒ¬Â†4Ui°‹Õ}Áˆ«ÑLÃF€¯Èõ}ú$ò˙“˜bŸòô¢m-™Ùﬁ≠©í^"ù‰bÌZZ™v 1ÊªP0NÓ)¿ ÿ€#%7Î◊VÖ≈•√k1pp∑˙T¸û$≠Y˜JÌ‘SqX°_ê-=Ÿ˘ÇB'¥K3ÿ∏LFˇ «Jï©##O)*ôVb£≠WcNiT¥Ív≤ïl•U)¬Î‘Ó*MÏ≤ÿD <Wø÷˝n¨ÊM¨∂î• zW¥ñ°“cò‘ñıVV´±¥Êo„ÒÂ+1∞àïK∆ÙH∫Grüè9tπ∏ìÄ§(¥Ÿ¥7às Â3R5ç/_≤xÌ)Xu6	8Õl~’”ÀåEßÆj≈©ãç &J¸H¨∏Ô–örÕí•°IœY˙“˜€bÁ≠)JÃJxI˝Ω)ãO¸;ËÃÆ3s?c(zz™Sq8å3J∫.‰Lew"˛Ê/3SB#Ω‹‹„Î«I›má¬î¶·%_O*ª≤ˆ4=Öó‹RêÉ'?ÔEtvà∆Y¥úfù…_¿·üä,˝ßdMvaXˇ si8T0Ÿﬂˆ¨ñõi‰PqøT∆˘z:©'∑‘˜≠IÿvÌJTÃòÂÃÈ›DyQœ·}Y’,eéÍÈ¸›~°√Ø°∞™u2
+siúƒQæ—1∑D˜º$6i»“FORAŒá˝2·j
+HÊú†«}sÛ†Ãß®QÍ+≠hùÆ/È±ÌL€‘Z{tm{ZÒ1n∞çé"Æ…§"K¯€ÆπΩµPZ⁄I\F§äzÈî©˙ê¢°úIÚıÆ∏M9wF+Î-C∑E ÜRÖ¶,≠≤¶Rüú~p‚∆D°ìXπKW∆{Îô	àù¶˛†∑Nà'°ÅÙdl±•:ãôßª}E’Ù1çvbû9arπmdXbDÍ¥," •F`√Ñr^¸L#nòU†FÔó^ı]m¥òvÏ€$¥¸´€w3Í	zÖç◊X¨N/OÈ•’Øc£e⁄ÈkÇ´j	D∑[≥hπ√XB6›ìø@HBÓr"®˝´∞π⁄6‚’ßÀjpêxR†§˙ÈÈùeÕwßgCÁs9evÊ(Èå]•:æ†∫M;ï	3Lr@JÄÜN=åób Ãº∆Ò6ßÄ∆d§Ú æyÏ≠÷∆x¥‚í§8rR@¯Ã’%´∫c”¸^∂›≠UêÕb1∂Ë`∞Á~µÃ=ˆGbs» æRóv%µ}√ã`fd£yÍvñnºT≤0•?Œ]0“õf≤ı⁄¡òIâÎLF≥ﬁçzß•5©’X€°Íz2yÃÆØ’ÈL€knfr„fi^¶G⁄Ì@åC ?Îè3;Gg].K ¿≠¿>ïˆ˝à’æÍP⁄ eLw•æ“Vµ˝5êƒkÌ*ÃÒz}˘MWãöYLs*˚åç†MNMA™”πI8Y˚Ç BGn1hY∏›Ω¬¢$`'ÎLmÇ£oõi\uŒ<¶øhÆ…ÿ–Z◊”⁄µΩ:4:√=ŒòÃdq¡xkrE⁄L®p’L+bâTrcb^€œB∫€Y-mJñ¢> BœŸ«ØÀ®JZDf…`r"¥á™~¨ﬁ-'K=Æ¥„2⁄:⁄Íb^·ˆÀm4s6%∏VEÆ€ßÊ \á˜A´Œ›á¨	SÍAÚ4$¥Âôq/:§[ìë=?‚É+j˚~§i˚K”ÖSFÈ¸N=oõÈ«W∞∫Ù‘ç¡jI—]ÒŸ∑Ò z§z’L=B‘£œ/≠n6=˚76∏mîÆ‚Pì7¶57©~º˙©jh<&9∏Ω=ù®:ì‘ÃÖ‘‚–õ¨imì”´[qyLZ˚vb¡É˘˙qÎªMöÍKÂ[«iÃ˙§EbÓ6Îw◊çÏˆ?ÕPVdBNy˝i[áˇ ˘Õaåf{Dj∂≤‘û¬∂~“+cÒ¨:_6*R‰W´ç6óaq*l}¿o1πˆÄ2ÍPËåC¿3?˜i\ÿ¬§Æï'Â@˘èKø•˝?ª¨ï ﬂΩ›º¸RÒï™‘«Ò9O∆X≤‚≥y∂òs$q)ﬁ~˜é≠~‡NIu'?•cvá≥,∂À´uÃJH gI>µƒS…2˝Î0NØé+ßÁiM˜r{ÎÖUòB}¡»û“+-À˘Í˘€2∞0	ˇ ∆∞ñ¡N`[ò≥Èïn,_¶zÁ-Èûå÷€h_ƒ£yR◊s(åµ∫◊≠ˆjö¯%â†Î%7((ÅﬁF'¨•Ì˚jt^DIƒòÀÍkÏ˛œ˚>‡∑aV\Áòü“ê˛¯¥f¢¡fjaQ•:∂¥ı≠@∫öí•‹˝zeZÌ|ö ÂÎ•bx‚ÌÃAB˜Û[?â ÔìÜI¨o¥ûÀ⁄?2í t≈¨´»¬ıè™¡¯ÕCÍù©ß≥ZÇàV«dtûAV(ù∫Îq3ÌöT‡`åÄå@Ô3¥˘ÈE8“’Öê@N†ˇ Õ`o=ñ^√∏˜w21rü√I˝9å…j˝Kä¿PíØ{;õä¢˘d,%µWƒ'`ë‚| ¬K}ã~_}0¥≠-»¶öe’Hf1¡÷®=g”Ø™s˙sèÂâ–÷`*…±5‰nLå[3Ìw‡Ÿ¬é\vÂ’ÕõûÍòs∆s1û\©’lëπAi8â◊ó:ô†t*›M=äòûarñ{WQkñÆ∆„∏T¡&õgÉáD7∏3ƒπO.§Û¡KYûC.Q÷:’ì6Œ7l€Q¯ãrqL«,>T µÈBÕÄUÆ‚ÅÏ±–Pd0SGfb&cÔn§.åïóïkΩ∆Ïeåˇ =kˇŸ
